@@ -1,0 +1,2545 @@
+ Guelaguetza
+
+ 3014 W Olympic Blvd
+, 
+ Los Angeles
+
+ CA
+
+ 90006
+
+Menu Category BEBIDAS CALIENTES / HOT DRINKS
+
+ 
+
+Item Atole Blanco
+
+Price: $3.50
+Price: Hot drink made from corn dough
+
+Description $3.50
+Description Hot drink made from corn dough
+
+Item Atole de Panela con Granillo
+
+Price: $3.95
+Price: 2 eggs, choice of bacon or sausage, and a slice of texas toast
+
+Description $3.95
+Description 2 eggs, choice of bacon or sausage, and a slice of texas toast
+
+Item Champurrado
+
+Price: $4.50
+Price: Drink made from atole blanco and Oaxacan chocolate
+
+Description $4.50
+Description Drink made from atole blanco and Oaxacan chocolate
+
+Item Chocolate de Agua
+
+Price: $3.95
+Price: Oaxacan chocolate, prepared with water
+
+Description $3.95
+Description Oaxacan chocolate, prepared with water
+
+Item Chocolate de Leche
+
+Price: $4.50
+Price: Oaxacan chocolate, prepared with milk
+
+Description $4.50
+Description Oaxacan chocolate, prepared with milk
+
+Item Café de Olla
+
+Price: $2.75
+Price: Oaxacan coffee brewed (with cinnamon)
+
+Description $2.75
+Description Oaxacan coffee brewed (with cinnamon)
+
+Item Te Caliente
+
+Price: $2.50
+Price: Hot tea assorted flavors
+
+Description $2.50
+Description Hot tea assorted flavors
+
+Item Canasta de Pan
+
+Price: $4.25
+Price: Bread basket
+
+Description $4.25
+Description Bread basket
+
+Menu Category BEBIDAS FRESCAS / SOFT DRINKS
+
+ 
+
+Item Horchata con Tuna y Nuez
+
+Price: $3.95
+Price: Sweet rice w ater drink, topped with cantaloupe, chopped nuts, and cactus fruit. Unlikeanything you've tasted before
+
+Description $3.95
+Description Sweet rice w ater drink, topped with cantaloupe, chopped nuts, and cactus fruit. Unlikeanything you've tasted before
+
+Item Chilacayota
+
+Price: $3.95
+Price: En temporada. Sweet drink made from a special squash, cinnamon and dark brown sugar (seasonal)
+
+Description $3.95
+Description En temporada. Sweet drink made from a special squash, cinnamon and dark brown sugar (seasonal)
+
+Item Aguas Frescas de Temporada
+
+Price: $2.95
+Price: Sweetened water drinks made with seasonal, ripe fruit
+
+Description $2.95
+Description Sweetened water drinks made with seasonal, ripe fruit
+
+Item Te Helado
+
+Price: $2.00
+Price: Ice tea
+
+Description $2.00
+Description Ice tea
+
+Item Refrescos Mexicanos
+
+Price: $3.25
+Price: Mexican sodas: Coca-Cola, Sidral, Sangría, Peñafiel, Jarritos
+
+Description $3.25
+Description Mexican sodas: Coca-Cola, Sidral, Sangría, Peñafiel, Jarritos
+
+Item Limonada Mineral
+
+Price: $3.00
+Price: Mineral water lemonade
+
+Description $3.00
+Description Mineral water lemonade
+
+Item Jugos
+
+Price: $3.00
+Price: Manzana, Uva, Toronja Apple, Grape, Grapefruit
+
+Description $3.00
+Description Manzana, Uva, Toronja Apple, Grape, Grapefruit
+
+Item Jugos Naturales
+
+Price: $3.75
+Price: Naranja, Zanahoria Fresh Squeezed Juices: Orange or Carrot
+
+Description $3.75
+Description Naranja, Zanahoria Fresh Squeezed Juices: Orange or Carrot
+
+Menu Category DESAYUNOS / BREAKFAST
+
+ 
+
+Item Huevo en tres salsas
+
+Price: $8.95
+Price: Huevos revueltos servidos con salsa de chile pasilla oaxaqueño, salsa verde de tomatillo, y salsa de tomate. Acompañado de frijoles refritos. Three scrambled eggs covered in a three salsa variation; a chile pasilla salsa, green tomatillo salsa, and a red tomato salsa. Served with black beans
+
+Description $8.95
+Description Huevos revueltos servidos con salsa de chile pasilla oaxaqueño, salsa verde de tomatillo, y salsa de tomate. Acompañado de frijoles refritos. Three scrambled eggs covered in a three salsa variation; a chile pasilla salsa, green tomatillo salsa, and a red tomato salsa. Served with black beans
+
+Item Chilaquiles de Mole
+
+Price: $10.95
+Price: Chilaquiles bañados en mole de su elección: negro, rojo, o coloradito servidos con huevos estrellados y quesillo. Chilaquiles covered in your choice of either black, red, or coloradito mole. Served with eggs and oaxacan string cheese.
+
+Description $10.95
+Description Chilaquiles bañados en mole de su elección: negro, rojo, o coloradito servidos con huevos estrellados y quesillo. Chilaquiles covered in your choice of either black, red, or coloradito mole. Served with eggs and oaxacan string cheese.
+
+Item Huevos Divorciados
+
+Price: $8.95
+Price: Huevos estrellados bañados en salsa de tomate y salsa verde de tomatillo servido con chilaquiles y frijoles refritos. Two over easy eggs, each covered in a red tomato and a green tomatillo salsa. Separated by chilaquiles. Serve with a side of black beans.
+
+Description $8.95
+Description Huevos estrellados bañados en salsa de tomate y salsa verde de tomatillo servido con chilaquiles y frijoles refritos. Two over easy eggs, each covered in a red tomato and a green tomatillo salsa. Separated by chilaquiles. Serve with a side of black beans.
+
+Item Chilaquiles de pasilla
+
+Price: $9.95
+Price: Chilaquiles bañados en salsa de chile pasilla oaxaqueño, servidos con frijoles refritos y tazajo, chorizo, cecina, o pollo. Chilaquiles covered in a chile pasilla sauce. Served with beans and your choice of tazajo, chorizo, cecina, or chicken.
+
+Description $9.95
+Description Chilaquiles bañados en salsa de chile pasilla oaxaqueño, servidos con frijoles refritos y tazajo, chorizo, cecina, o pollo. Chilaquiles covered in a chile pasilla sauce. Served with beans and your choice of tazajo, chorizo, cecina, or chicken.
+
+Item Omelette Oaxaqueño
+
+Price: $9.95
+Price: Huevos con chorizo, queso fresco, y epazote. Servido con frijoles refritos, y quesadillas al comal. A Oaxacan chorizo, epazote, and cheese omelet. Served with beans and two cheese quesadillas.
+
+Description $9.95
+Description Huevos con chorizo, queso fresco, y epazote. Servido con frijoles refritos, y quesadillas al comal. A Oaxacan chorizo, epazote, and cheese omelet. Served with beans and two cheese quesadillas.
+
+Item Huevos Rancheros
+
+Price: $7.95
+Price: Huevos estrellados bañados en salsa de tomate con arroz y frijoles negros. Fried eggs on crispy tortillas covered with spicy tomato sauce. Served with rice and black beans.
+
+Description $7.95
+Description Huevos estrellados bañados en salsa de tomate con arroz y frijoles negros. Fried eggs on crispy tortillas covered with spicy tomato sauce. Served with rice and black beans.
+
+Item Huevos Revueltos con Jamón
+
+Price: $7.95
+Price: Servido con arroz y frijoles negros. Scrambled eggs with ham. Served with rice and black beans
+
+Description $7.95
+Description Servido con arroz y frijoles negros. Scrambled eggs with ham. Served with rice and black beans
+
+Item Huevos Revueltos con Chorizo
+
+Price: $8.95
+Price: Servido con arroz y frijoles negros. Scrambled eggs with chorizo. Served with rice and black beans
+
+Description $8.95
+Description Servido con arroz y frijoles negros. Scrambled eggs with chorizo. Served with rice and black beans
+
+Item Huevos a la Mexicana
+
+Price: $7.95
+Price: Servido con arroz y frijoles negros. Scrambled eggs with chopped tomato, onion and jalapeño chile. Served with rice and black beans
+
+Description $7.95
+Description Servido con arroz y frijoles negros. Scrambled eggs with chopped tomato, onion and jalapeño chile. Served with rice and black beans
+
+Item Salsa de Huevo
+
+Price: $8.95
+Price: 
+
+Description $8.95
+Description 
+
+Item Salsa de Queso
+
+Price: $8.95
+Price: Queso fresco con salsa de jitomate y jalapeño. Servido con frijoles negros. Fresh cheese covered with spicy tomato sauce. Served with black beans
+
+Description $8.95
+Description Queso fresco con salsa de jitomate y jalapeño. Servido con frijoles negros. Fresh cheese covered with spicy tomato sauce. Served with black beans
+
+Item Salsa de Chicharrón
+
+Price: $8.95
+Price: Chicharrón en salsa de jitomate y jalapeño. Servido con frijoles negros. Fried pork skin covered with spicy tomato sauce. Served with black beans
+
+Description $8.95
+Description Chicharrón en salsa de jitomate y jalapeño. Servido con frijoles negros. Fried pork skin covered with spicy tomato sauce. Served with black beans
+
+Menu Category ENTRADAS / APPETIZER
+
+ 
+
+Item Quesillo Fundido con Chorizo y Champiñones
+
+Price: $9.50
+Price: Melted Oaxaca cheese with chorizo and mushrooms skillet
+
+Description $9.50
+Description Melted Oaxaca cheese with chorizo and mushrooms skillet
+
+Item Molcajete de Gucamole
+
+Price: $7.25
+Price: Fresh Guacamole
+
+Description $7.25
+Description Fresh Guacamole
+
+Item Ensalada de Nopalitos
+
+Price: $6.50
+Price: Cactus tossed salad
+
+Description $6.50
+Description Cactus tossed salad
+
+Item Nopales Asados
+
+Price: $5.50
+Price: Grilled cactus
+
+Description $5.50
+Description Grilled cactus
+
+Item Chiles de Agua Asados con Cebolla y Limón
+
+Price: $4.95
+Price: Grilled fresh chile, with raw onion slices and lime wedges
+
+Description $4.95
+Description Grilled fresh chile, with raw onion slices and lime wedges
+
+Item Molotes de Papa con Chorizo
+
+Price: $7.95
+Price: Fried corn dough rolls filled with potatoes and chorizo
+
+Description $7.95
+Description Fried corn dough rolls filled with potatoes and chorizo
+
+Item Chalupas
+
+Price: $7.95
+Price: Fried small thick corn tortillas topped with seasoned vegetables
+
+Description $7.95
+Description Fried small thick corn tortillas topped with seasoned vegetables
+
+Item Quesadillas Fritas
+
+Price: $7.95
+Price: Fried quesadillas
+
+Description $7.95
+Description Fried quesadillas
+
+Item Patitas de Puerco en Vinagre
+
+Price: $8.95
+Price: Marinated pork feet
+
+Description $8.95
+Description Marinated pork feet
+
+Item Chapulines
+
+Price: $9.95
+Price: Chapulines directamente de Oaxaca
+
+Description $9.95
+Description Chapulines directamente de Oaxaca
+
+Menu Category PARA COMPARTIR / FAMILY STYLE
+
+ 
+
+Item Botana Oaxaqueña
+
+Price: $76.75
+Price: (6 personas) Incluye: medio quesillo, 8 memelas, chorizo, tasajo, cecina, un chile relleno, costilla frita de puerco y guacamole. Assorted tasting plate. Includes oaxacan string cheese 8 memelas, chorizo, tasajo and cecina, A fresh stuffed chile with picadillo, fried pork ribs and guacamole
+
+Description $76.75
+Description (6 personas) Incluye: medio quesillo, 8 memelas, chorizo, tasajo, cecina, un chile relleno, costilla frita de puerco y guacamole. Assorted tasting plate. Includes oaxacan string cheese 8 memelas, chorizo, tasajo and cecina, A fresh stuffed chile with picadillo, fried pork ribs and guacamole
+
+Item Festival de Moles
+
+Price: $22.25
+Price: Pechuga de pollo servida con mole negro, mole rojo, estofado y coloradito, acompañado de arroz y una tortilla a mano. Assorted tasting plate includes black mole, red mole, estofado and coloradito, served with sliced chicken breast, a side of rice and a hand-made tortilla
+
+Description $22.25
+Description Pechuga de pollo servida con mole negro, mole rojo, estofado y coloradito, acompañado de arroz y una tortilla a mano. Assorted tasting plate includes black mole, red mole, estofado and coloradito, served with sliced chicken breast, a side of rice and a hand-made tortilla
+
+Item Canasta Costeña
+
+Price: $12.95
+Price: (2 Personas) Camarones, pollo y filete de pescado empanizados con el sazón especial de la casa y papas fritas.Shrimp,chicken strips, potato wedges and fish fillet breaded with special Oaxacan seasonings
+
+Description $12.95
+Description (2 Personas) Camarones, pollo y filete de pescado empanizados con el sazón especial de la casa y papas fritas.Shrimp,chicken strips, potato wedges and fish fillet breaded with special Oaxacan seasonings
+
+Item Combinación de Antojitos
+
+Price: $36.00
+Price: (3 personas) Variedad de antojitos oaxaqueños que incluye: quesadillas, molotes, taquitos, chalupas y patitas de puerco en vinagre.Assorted tasting plate. Includes fried quesadillas, fried chicken taquitos, molotes, chalupas, and marinated pork feet
+
+Description $36.00
+Description (3 personas) Variedad de antojitos oaxaqueños que incluye: quesadillas, molotes, taquitos, chalupas y patitas de puerco en vinagre.Assorted tasting plate. Includes fried quesadillas, fried chicken taquitos, molotes, chalupas, and marinated pork feet
+
+Menu Category MOLES Y TLAYUDAS
+
+ 
+
+Item Mole Negro
+
+Price: $15.45
+Price: Servido con arroz. An absolute must-have, your choice of chicken breast or chicken legs covered with Oaxaca's famous black mole made from chiles, nuts, seeds, spices and Oaxacan chocolate. Rich bold flavor. Served with rice
+
+Description $15.45
+Description Servido con arroz. An absolute must-have, your choice of chicken breast or chicken legs covered with Oaxaca's famous black mole made from chiles, nuts, seeds, spices and Oaxacan chocolate. Rich bold flavor. Served with rice
+
+Item Mole Rojo
+
+Price: $15.45
+Price: Servido con arroz. Your choice of chicken breast or chicken legs covered with Oaxaca's famous red mole made from chiles, nuts, seeds, spices and Oaxacan chocolate. Rich bold flavor. Served with rice
+
+Description $15.45
+Description Servido con arroz. Your choice of chicken breast or chicken legs covered with Oaxaca's famous red mole made from chiles, nuts, seeds, spices and Oaxacan chocolate. Rich bold flavor. Served with rice
+
+Item Coloradito
+
+Price: $15.45
+Price: Servido con arroz. Wonder what that delicious sauce on your chips is? Chicken or pork covered with Oaxaca's famous red mole, made from chiles, nuts, seeds, spices and Oaxacan chocolate. Rich, mild flavor. Served with rice
+
+Description $15.45
+Description Servido con arroz. Wonder what that delicious sauce on your chips is? Chicken or pork covered with Oaxaca's famous red mole, made from chiles, nuts, seeds, spices and Oaxacan chocolate. Rich, mild flavor. Served with rice
+
+Item Estofado
+
+Price: $14.45
+Price: Servido con arroz. Chicken or pork covered with sauce made from tomatillos, chiles, raisins, olives and spices. Served with rice
+
+Description $14.45
+Description Servido con arroz. Chicken or pork covered with sauce made from tomatillos, chiles, raisins, olives and spices. Served with rice
+
+Item Verde
+
+Price: $14.45
+Price: Bowl of chicken or pork spine (black bone) with green mole made from fresh spicy green chiles with herbs including hierba santa and epazote
+
+Description $14.45
+Description Bowl of chicken or pork spine (black bone) with green mole made from fresh spicy green chiles with herbs including hierba santa and epazote
+
+Item Amarillo
+
+Price: $14.45
+Price: Bowl of chicken or beef with yellow mole flavored with chiles, cloves and cumin
+
+Description $14.45
+Description Bowl of chicken or beef with yellow mole flavored with chiles, cloves and cumin
+
+Item Tlayuda Guelaguetza
+
+Price: $16.75
+Price: Untada de asiento y pasta de frijol con queso fresco, repollo, tasajo, cecina, chorizo y quesillo. Layered with asiento paste, and black bean paste, topped with queso fresco, lettuce, tasajo, cecina, chorizo and Oaxaca cheese
+
+Description $16.75
+Description Untada de asiento y pasta de frijol con queso fresco, repollo, tasajo, cecina, chorizo y quesillo. Layered with asiento paste, and black bean paste, topped with queso fresco, lettuce, tasajo, cecina, chorizo and Oaxaca cheese
+
+Item Tlayuda Vegetariana
+
+Price: $10.95
+Price: Tortilla típica Oaxaqueña con pasta de frijol, queso fresco, lechuga, hongos, nopales, tomates y aguacate.Imported tortilla Tlayuda layered with black bean paste, topped with queso fresco, cabbage, mushrooms, cactus, avocado and tomatoes
+
+Description $10.95
+Description Tortilla típica Oaxaqueña con pasta de frijol, queso fresco, lechuga, hongos, nopales, tomates y aguacate.Imported tortilla Tlayuda layered with black bean paste, topped with queso fresco, cabbage, mushrooms, cactus, avocado and tomatoes
+
+Item Tlayuda con Asiento (Con una carne)
+
+Price: $9.95
+Price: Imported tortilla Tlayuda layered with asiento spread, black bean paste and spreinkled with cabagge, and queso fresco. Comes with the option of Tasajo, Cecina, Chorizo or Quesillo
+
+Description $9.95
+Description Imported tortilla Tlayuda layered with asiento spread, black bean paste and spreinkled with cabagge, and queso fresco. Comes with the option of Tasajo, Cecina, Chorizo or Quesillo
+
+Item Tlayuda de Mole
+
+Price: $9.95
+Price: Untada de mole negro con queso fresco. Layered with our mole negro, topped with queso fresco
+
+Description $9.95
+Description Untada de mole negro con queso fresco. Layered with our mole negro, topped with queso fresco
+
+Item Tlayuda Choriqueso
+
+Price: $10.95
+Price: Untada de asiento, con chorizo desmenuzado, quesillo y queso fresco. Layered with asiento spread, topped with shredded chorizo, Oaxaca cheese, and queso fresco
+
+Description $10.95
+Description Untada de asiento, con chorizo desmenuzado, quesillo y queso fresco. Layered with asiento spread, topped with shredded chorizo, Oaxaca cheese, and queso fresco
+
+Item Tlayuda de Mole con Huevo
+
+Price: $10.95
+Price: Untada de mole negro, con huevos revueltos y queso fresco. Layered with mole negro, topped with scrambled eggs and queso fresco
+
+Description $10.95
+Description Untada de mole negro, con huevos revueltos y queso fresco. Layered with mole negro, topped with scrambled eggs and queso fresco
+
+Item Tlayuda Epazote
+
+Price: $8.95
+Price: Untada de asiento, con queso fresco, quesillo y epazote. Layered with asiento spread, topped with quesillo, queso fresco and epazote leaves
+
+Description $8.95
+Description Untada de asiento, con queso fresco, quesillo y epazote. Layered with asiento spread, topped with quesillo, queso fresco and epazote leaves
+
+Menu Category CARNES OAXAQUEÑAS / OAXACA'S MEATS
+
+ 
+
+Item Especial de Carnes
+
+Price: $17.75
+Price: Porción de tasajo, cecina, chorizo (asados) y quesillo servido con arroz, frijoles negros y ensalada. Assorted tasting plate, includes: grilled tasajo, cecina, chorizo and oaxacan string cheese.Served with rice, black beans and green salad
+
+Description $17.75
+Description Porción de tasajo, cecina, chorizo (asados) y quesillo servido con arroz, frijoles negros y ensalada. Assorted tasting plate, includes: grilled tasajo, cecina, chorizo and oaxacan string cheese.Served with rice, black beans and green salad
+
+Item Tasajo / Cecina o Chorizo Especial
+
+Price: $15.95
+Price: Porción de tasajo asado, cecina o chorizo, servido con arroz, frijoles negros y ensalada. Grilled tasajo, cecina or chorizo, served with rice, black beans and green salad.
+
+Description $15.95
+Description Porción de tasajo asado, cecina o chorizo, servido con arroz, frijoles negros y ensalada. Grilled tasajo, cecina or chorizo, served with rice, black beans and green salad.
+
+Item Tasajo o Cecina Encebollados con Hongos
+
+Price: $16.50
+Price: Su elección de tasajo o cecina picados cocinado con hongos. Servido con arroz, frijoles negros y ensalada.Tasajo or Cecina, sautéed with mushrooms and onions. Served with rice, black beans and green salad
+
+Description $16.50
+Description Su elección de tasajo o cecina picados cocinado con hongos. Servido con arroz, frijoles negros y ensalada.Tasajo or Cecina, sautéed with mushrooms and onions. Served with rice, black beans and green salad
+
+Item Tasajo a la Mexicana
+
+Price: $16.50
+Price: Servido con arroz y frijoles negros. Tasajo, sauteed with onions, tomatoes and jalapeño peppers (spicy) Served with rice and black bean
+
+Description $16.50
+Description Servido con arroz y frijoles negros. Tasajo, sauteed with onions, tomatoes and jalapeño peppers (spicy) Served with rice and black bean
+
+Item Salsa de Chorizo
+
+Price: $11.95
+Price: Servido con frijoles negros. Chorizo covered with spicy tomato sauce. Served with black beans
+
+Description $11.95
+Description Servido con frijoles negros. Chorizo covered with spicy tomato sauce. Served with black beans
+
+Item Pechuga de Pollo Enchilada
+
+Price: $15.95
+Price: Pollo marinado y frito, servido con arroz, frijoles negros y ensalada. Chile-marinated and fried or grilled chicken breast. Served with rice, black beans and green salad
+
+Description $15.95
+Description Pollo marinado y frito, servido con arroz, frijoles negros y ensalada. Chile-marinated and fried or grilled chicken breast. Served with rice, black beans and green salad
+
+Item Pechuga de Pollo Empanizada
+
+Price: $15.95
+Price: Acompañada de papas, arroz y frijoles. Breaded chicken breast served with potatoe wedges, rice and beans
+
+Description $15.95
+Description Acompañada de papas, arroz y frijoles. Breaded chicken breast served with potatoe wedges, rice and beans
+
+Item Pechuga de Pollo Enchipotlada
+
+Price: $15.95
+Price: Cocinado con champiñones y cebolla, servido con papas, arroz, y frijoles. Chicken breast cooked with our special chipotle sauce sauteed with mushrooms and onions; accompanied with potatoe wedges, rice and beans (spicy)
+
+Description $15.95
+Description Cocinado con champiñones y cebolla, servido con papas, arroz, y frijoles. Chicken breast cooked with our special chipotle sauce sauteed with mushrooms and onions; accompanied with potatoe wedges, rice and beans (spicy)
+
+Item Costilla de Puerco Enchilada
+
+Price: $16.50
+Price: Servido con arroz, frijoles negros y ensalada. Chile-marinated fried or grilled pork ribs. Served with rice black beans and green salad
+
+Description $16.50
+Description Servido con arroz, frijoles negros y ensalada. Chile-marinated fried or grilled pork ribs. Served with rice black beans and green salad
+
+Item Carnitas Guelaguetza
+
+Price: $15.95
+Price: Servido con ensalada, guacamole, pico de gallo y frijoles negros. Fried pork marinated with a unique in-house recipe. Served with salad, guacamole, black beans and pico de gallo salsa
+
+Description $15.95
+Description Servido con ensalada, guacamole, pico de gallo y frijoles negros. Fried pork marinated with a unique in-house recipe. Served with salad, guacamole, black beans and pico de gallo salsa
+
+Item Nopal Zapoteco
+
+Price: $15.50
+Price: (Original o Vegetariano) Nopal asado cocinado con tasajo o pollo, cebolla, chile moron, tomate y quesillo. Grilled cactus, topped with grilled beef or Chicken, onions, bell pepper, tomato, and melted oaxacan string cheese
+
+Description $15.50
+Description (Original o Vegetariano) Nopal asado cocinado con tasajo o pollo, cebolla, chile moron, tomate y quesillo. Grilled cactus, topped with grilled beef or Chicken, onions, bell pepper, tomato, and melted oaxacan string cheese
+
+Item Alambres
+
+Price: $15.50
+Price: Tasajo, pimiento verde, cebolla y quesillo fundido, sobre tortillas de maiz, servido con Guacamole. Tasajo (beef), sauteed with onions, bell peppers and melted oaxacan cheese string served on corn tortillas, served with Guacamole
+
+Description $15.50
+Description Tasajo, pimiento verde, cebolla y quesillo fundido, sobre tortillas de maiz, servido con Guacamole. Tasajo (beef), sauteed with onions, bell peppers and melted oaxacan cheese string served on corn tortillas, served with Guacamole
+
+Menu Category TRADICIONAL COMIDA OAXAQUEÑA /TRADITIONAL OAXACAN ENTREES
+
+ 
+
+Item Chiles Rellenos
+
+Price: $14.95
+Price: Chiles rellenos de picadillo de pollo, bañados en salsa de tomate, se sirven con frijoles negros y arroz. Fresh chile stuffed with chopped chicken, raisins and nuts, battered and fried, covered with spicy tomato sauce. Served with rice and black beans
+
+Description $14.95
+Description Chiles rellenos de picadillo de pollo, bañados en salsa de tomate, se sirven con frijoles negros y arroz. Fresh chile stuffed with chopped chicken, raisins and nuts, battered and fried, covered with spicy tomato sauce. Served with rice and black beans
+
+Item Tamal Oaxaqueño de Mole Negro con Pollo
+
+Price: $10.95
+Price: Servido con arroz y frijoles. Our famous banana leaf-wrapped tamales. Finely ground corn dough packages, filled with shredded chicken in black mole, served with rice and black beans on the side
+
+Description $10.95
+Description Servido con arroz y frijoles. Our famous banana leaf-wrapped tamales. Finely ground corn dough packages, filled with shredded chicken in black mole, served with rice and black beans on the side
+
+Item Memelas con Asiento y Carne
+
+Price: $7.95
+Price: Una elección de: quesillo, chorizo, tasajo, cecina o pollo Thick handmade tortilla smeared with asiento, black bean puree and topped off with sprinkled cheese. Choice of quesillo, chorizo, tasajo, cecina or chicken
+
+Description $7.95
+Description Una elección de: quesillo, chorizo, tasajo, cecina o pollo Thick handmade tortilla smeared with asiento, black bean puree and topped off with sprinkled cheese. Choice of quesillo, chorizo, tasajo, cecina or chicken
+
+Item Enchiladas Campesinas
+
+Price: $14.95
+Price: (de Mole Rojo) 3 tortillas hechas a mano, rellenas de pollo, cubiertas de mole; con rodajas de cebolla, queso fresco y perejil. 3 hand-made tortillas stuffed with chicken covered in mole negro, rojo or coloradito topped with onions, queso fresco and italian parsley
+
+Description $14.95
+Description (de Mole Rojo) 3 tortillas hechas a mano, rellenas de pollo, cubiertas de mole; con rodajas de cebolla, queso fresco y perejil. 3 hand-made tortillas stuffed with chicken covered in mole negro, rojo or coloradito topped with onions, queso fresco and italian parsley
+
+Item Enchiladas de Coloradito
+
+Price: $14.95
+Price: Con una elección de: quesillo, chorizo, tasajo, cecina o pollo (Ingrediente extra $2.00). Three tortillas dipped in red sauce, folded and sprinkled with cheese. Served with a choice of Oaxacan string cheese chorizo, tasajo, cecina or chicken on the side
+
+Description $14.95
+Description Con una elección de: quesillo, chorizo, tasajo, cecina o pollo (Ingrediente extra $2.00). Three tortillas dipped in red sauce, folded and sprinkled with cheese. Served with a choice of Oaxacan string cheese chorizo, tasajo, cecina or chicken on the side
+
+Item Enmoladas
+
+Price: $14.95
+Price: Con una elección de: quesillo, chorizo, tasajo, cecina o pollo (Ingrediente extra $2.00). Three tortillas dipped in black mole, folded and sprinkled with cheese. Served with a choice of Oaxacan string cheese, chorizo, tasajo, cecina or chicken on the side
+
+Description $14.95
+Description Con una elección de: quesillo, chorizo, tasajo, cecina o pollo (Ingrediente extra $2.00). Three tortillas dipped in black mole, folded and sprinkled with cheese. Served with a choice of Oaxacan string cheese, chorizo, tasajo, cecina or chicken on the side
+
+Item Chilaquiles
+
+Price: $12.95
+Price: Totopos de tortilla tlayuda cubiertas en salsa de tomate con una elección de quesillo, chorizo, tasajo, cecina o pollo.
+
+Description $12.95
+Description Totopos de tortilla tlayuda cubiertas en salsa de tomate con una elección de quesillo, chorizo, tasajo, cecina o pollo.
+
+Item Taco de Barbacoa de Chivo
+
+Price: $10.95
+Price: Acompañado de consomé. Huge, handmade corn tortilla rolled around young goat (tender) cooked in broth flavored with dried chiles, avocado leaves and herbs. Served with young goat broth
+
+Description $10.95
+Description Acompañado de consomé. Huge, handmade corn tortilla rolled around young goat (tender) cooked in broth flavored with dried chiles, avocado leaves and herbs. Served with young goat broth
+
+Item Barbacoa Roja de Chivo
+
+Price: $12.95
+Price: Bowl of young goat (tender) in broth flavored with dried chiles, avocado leaves and herbs
+
+Description $12.95
+Description Bowl of young goat (tender) in broth flavored with dried chiles, avocado leaves and herbs
+
+Item Salsa de Carne Frita
+
+Price: $12.95
+Price: Servido con arroz y frijoles negros. Fried pork ribs covered with spicy tomato sauce. Served with rice and black beans
+
+Description $12.95
+Description Servido con arroz y frijoles negros. Fried pork ribs covered with spicy tomato sauce. Served with rice and black beans
+
+Item Enfrijoladas
+
+Price: $13.95
+Price: Con una elección de: chorizo, tasajo o cecina (Ingrediente extra $2.00). Three tortillas dipped in black beans sauce, folded and sprinkled with cheese. Served with a choice of chorizo, tasajo or cecina on the side
+
+Description $13.95
+Description Con una elección de: chorizo, tasajo o cecina (Ingrediente extra $2.00). Three tortillas dipped in black beans sauce, folded and sprinkled with cheese. Served with a choice of chorizo, tasajo or cecina on the side
+
+Item Entomatadas
+
+Price: $11.95
+Price: Con una elección de quesillo, chorizo, tasajo, cecina o pollo (Ingrediente extra $2.00). Three tortillas dipped in tomato sauce, folded and sprinkled with cheese. Served with a choice of Oaxacan string cheese, chorizo, tasajo, cecina or chicken on the side
+
+Description $11.95
+Description Con una elección de quesillo, chorizo, tasajo, cecina o pollo (Ingrediente extra $2.00). Three tortillas dipped in tomato sauce, folded and sprinkled with cheese. Served with a choice of Oaxacan string cheese, chorizo, tasajo, cecina or chicken on the side
+
+Item Caldo de Res
+
+Price: $9.95
+Price: Beef stew soup with chayote squash, potatoes and green beans. Big and steaming hot
+
+Description $9.95
+Description Beef stew soup with chayote squash, potatoes and green beans. Big and steaming hot
+
+Item Caldo de Pollo
+
+Price: $9.95
+Price: Chicken and rice stew soup. Big and steaming hot
+
+Description $9.95
+Description Chicken and rice stew soup. Big and steaming hot
+
+Item Empanadas de Amarillo o Verde
+
+Price: $9.50
+Price: Con una elección de: Verde de Pollo, Verde de Puerco o Amarillo de Pollo (Ingrediente extra $2.00). Huge handmade corn tortilla folded and stuffed with a choice off: mushrooms and cheese, chicken and amarillo, chicken and verde or pork and verde
+
+Description $9.50
+Description Con una elección de: Verde de Pollo, Verde de Puerco o Amarillo de Pollo (Ingrediente extra $2.00). Huge handmade corn tortilla folded and stuffed with a choice off: mushrooms and cheese, chicken and amarillo, chicken and verde or pork and verde
+
+Item Empanadas de Flor de Calabaza / Huitlacoche
+
+Price: $10.95
+Price: Huge, handmade corn tortilla folded and stuffed with a choice off: huitlacoche, Squash blossoms and oaxacan string cheese or mushrooms and oaxacan strig cheese
+
+Description $10.95
+Description Huge, handmade corn tortilla folded and stuffed with a choice off: huitlacoche, Squash blossoms and oaxacan string cheese or mushrooms and oaxacan strig cheese
+
+Item Tamales de Dulce o Rajas
+
+Price: $2.95
+Price: Corn husk-wrapped tamale. Sweetened corn dough with raisins or Corn dough stuffed with fresh chiles, onions with chicken
+
+Description $2.95
+Description Corn husk-wrapped tamale. Sweetened corn dough with raisins or Corn dough stuffed with fresh chiles, onions with chicken
+
+Item Taquitos Fritos de Picadillo de Pollo
+
+Price: $9.95
+Price: Taquitos dorados rellenos de picadillo de pollo. Fried Crisp taquitos stuffed with chicken picadillo. Covered with a choice of guacamole or coloradito sauce and topped with fresh cheese
+
+Description $9.95
+Description Taquitos dorados rellenos de picadillo de pollo. Fried Crisp taquitos stuffed with chicken picadillo. Covered with a choice of guacamole or coloradito sauce and topped with fresh cheese
+
+Menu Category VIERNES, SABADO Y DOMINGO
+
+ Friday, Saturday, and Sunday Specials
+
+Item Pozole Pollo o Puerco
+
+Price: $13.95
+Price: Chicken or pork pozole
+
+Description $13.95
+Description Chicken or pork pozole
+
+Item Barbacoa de Borrego
+
+Price: $15.95
+Price: Servido con guacamole, ensalada y consomé. Young lamb, flavored with dried chiles, avocado leaves and herbs. Served with guacamole, green salad and young goat broth
+
+Description $15.95
+Description Servido con guacamole, ensalada y consomé. Young lamb, flavored with dried chiles, avocado leaves and herbs. Served with guacamole, green salad and young goat broth
+
+Menu Category MARISCOS / SEAFOOD
+
+ 
+
+Item Sopa de Mariscos
+
+Price: $15.95
+Price: Seafood soup
+
+Description $15.95
+Description Seafood soup
+
+Item Coctel de Camarón
+
+Price: $12.95
+Price: Shrimp in sweet sauce tossed with chopped tomatoes, onion, cilantro and avocado
+
+Description $12.95
+Description Shrimp in sweet sauce tossed with chopped tomatoes, onion, cilantro and avocado
+
+Item Coctel de Pulpo con Camarón
+
+Price: $113.95
+Price: Shrimp and octopus in sweet sauce tossed with chopped tomatoes, onion, cilantro and avocado
+
+Description $113.95
+Description Shrimp and octopus in sweet sauce tossed with chopped tomatoes, onion, cilantro and avocado
+
+Item Campechana
+
+Price: $13.95
+Price: Shrimp, octopus, abalone and baby clams in sweet sauce tossed with chopped tomatoes, onion , cilantro and avocado
+
+Description $13.95
+Description Shrimp, octopus, abalone and baby clams in sweet sauce tossed with chopped tomatoes, onion , cilantro and avocado
+
+Item Caldo de Camarón
+
+Price: $14.95
+Price: Shrimp soup
+
+Description $14.95
+Description Shrimp soup
+
+Item Camarones al Gusto
+
+Price: $14.50
+Price: (ENCHIPOTLADOS/A LA COSTEÑA /AL MOJO DE AJO)
+
+Description $14.50
+Description (ENCHIPOTLADOS/A LA COSTEÑA /AL MOJO DE AJO)
+
+Item Tostada de Camarón / Mixta
+
+Price: $9.95
+Price: Crisp tortilla layered with Shrimp, tomatoes, onions, and cilantro
+
+Description $9.95
+Description Crisp tortilla layered with Shrimp, tomatoes, onions, and cilantro
+
+Item Huachinango dorado o al Mojo de Ajo
+
+Price: $15.75
+Price: Servido con arroz, frijoles y ensalada. Fried red snapper fish, or sauteed in a garlic sauce
+
+Description $15.75
+Description Servido con arroz, frijoles y ensalada. Fried red snapper fish, or sauteed in a garlic sauce
+
+Item Mojarra Frita o al Mojo de Ajo
+
+Price: $14.50
+Price: Servido con arroz, frijoles y ensalada. Fried fish or sauteed in a garlic sauce
+
+Description $14.50
+Description Servido con arroz, frijoles y ensalada. Fried fish or sauteed in a garlic sauce
+
+Item Tuxtepecana Mixta
+
+Price: $19.95
+Price: Piña rellena de mariscos: camarón, pulpo y pescado. Servido con arroz y ensalada. Pineapple stuffed with shrimp, octopus and fish, sauteed with onion wedges. Served with rice and salad
+
+Description $19.95
+Description Piña rellena de mariscos: camarón, pulpo y pescado. Servido con arroz y ensalada. Pineapple stuffed with shrimp, octopus and fish, sauteed with onion wedges. Served with rice and salad
+
+Item Filete de Pescado
+
+Price: $14.95
+Price: EMPANIZADO/A LA COSTEÑA /AL MOJO DE AJO
+
+Description $14.95
+Description EMPANIZADO/A LA COSTEÑA /AL MOJO DE AJO
+
+Menu Category POSTRES / DESSERTS
+
+ 
+
+Item Guelaguetza
+
+Price: $7.95
+Price: Incluye Flan, Platanos Fritos, Nicuatole, y Fresas con Crema Includes Flan, Fried Plantains, Nicuatole, and Strawberries and Cream
+
+Description $7.95
+Description Incluye Flan, Platanos Fritos, Nicuatole, y Fresas con Crema Includes Flan, Fried Plantains, Nicuatole, and Strawberries and Cream
+
+Item Platanos Fritos
+
+Price: $5.95
+Price: Fried Plantains, topped with sour cream and walnuts
+
+Description $5.95
+Description Fried Plantains, topped with sour cream and walnuts
+
+Item Fresas con Crema
+
+Price: $4.95
+Price: Fresh strawberries and topped with Mexican Cream
+
+Description $4.95
+Description Fresh strawberries and topped with Mexican Cream
+
+Item Nieves Oaxaqueñas
+
+Price: $5.50
+Price: Home-made Oaxacan Ice Cream
+
+Description $5.50
+Description Home-made Oaxacan Ice Cream
+
+Item Nicuatole
+
+Price: $5.50
+Price: Gelatin-like dessert made from Corn, flour, and Cinnamon
+
+Description $5.50
+Description Gelatin-like dessert made from Corn, flour, and Cinnamon
+
+Item Gelatinas
+
+Price: $2.00
+Price: Gelatin, assorted flavors
+
+Description $2.00
+Description Gelatin, assorted flavors
+
+Item ChocoFlan
+
+Price: $4.00
+Price: Chocolate cake topped with our home made flan
+
+Description $4.00
+Description Chocolate cake topped with our home made flan
+
+Item Pastel 3 Leches
+
+Price: $4.00 - $25.00
+Price: 3 Leches cake
+
+Description $4.00 - $25.00
+Description 3 Leches cake
+
+Menu Category A LA CARTA / SIDES
+
+ 
+
+Item Tortillas hechas a mano
+
+Price: $2.25
+Price: 
+
+Description $2.25
+Description 
+
+Item Mole
+
+Price: $4.50
+Price: 
+
+Description $4.50
+Description 
+
+Item Tazajo, Chorizo o Cecina
+
+Price: $3.95
+Price: 
+
+Description $3.95
+Description 
+
+Item Quesillo
+
+Price: $3.95
+Price: 
+
+Description $3.95
+Description 
+
+Item Frijoles Negros o Arroz
+
+Price: $2.95
+Price: 
+
+Description $2.95
+Description 
+
+Item Tlayuda sola
+
+Price: $2.00
+Price: 
+
+Description $2.00
+Description 
+
+Item Aguacate
+
+Price: $3.50
+Price: 
+
+Description $3.50
+Description 
+
+Item Chiles Toreados (3)
+
+Price: $2.75
+Price: 
+
+Description $2.75
+Description 
+
+Menu Category Mezcaladas
+
+ Mezcal Cocktails
+
+Item Garra de Tigre
+
+Price: $8.75
+Price: Reposado Mezcal, house syrup, freshly squeezed lime, Oaxacan spicy salt blend
+
+Description $8.75
+Description Reposado Mezcal, house syrup, freshly squeezed lime, Oaxacan spicy salt blend
+
+Item Donají
+
+Price: $7.95
+Price: Reposado Mezcal, freshly squeezed OJ, Oaxaca spicy salt blend
+
+Description $7.95
+Description Reposado Mezcal, freshly squeezed OJ, Oaxaca spicy salt blend
+
+Item Pasión de Oaxaca
+
+Price: $9.50
+Price: Aged Mezcal, silver sauza, passion fruit, grapefruit juice, Tajin
+
+Description $9.50
+Description Aged Mezcal, silver sauza, passion fruit, grapefruit juice, Tajin
+
+Item Mitla
+
+Price: $8.50
+Price: Mezcal, pomegranate juice, freshly squeezed lime juice
+
+Description $8.50
+Description Mezcal, pomegranate juice, freshly squeezed lime juice
+
+Item Flor de Piña
+
+Price: $8.95
+Price: Aged Mezcal, pineapple and coconut juice, honey
+
+Description $8.95
+Description Aged Mezcal, pineapple and coconut juice, honey
+
+Item Alebrije
+
+Price: $8.50
+Price: Mezcal, passion fruit, grapefruit and tajin blended topped off with blue curacao
+
+Description $8.50
+Description Mezcal, passion fruit, grapefruit and tajin blended topped off with blue curacao
+
+Item Mez-Choco
+
+Price: $9.95
+Price: Aged Mezcal, Bayleys, Oaxacan chocolate, Minero Mezcal float
+
+Description $9.95
+Description Aged Mezcal, Bayleys, Oaxacan chocolate, Minero Mezcal float
+
+Item Mangoneada
+
+Price: $8.50
+Price: Mezcal, Mango, lime and chamoy. Blended
+
+Description $8.50
+Description Mezcal, Mango, lime and chamoy. Blended
+
+Item Margarita Guelaguetza
+
+Price: $8.95
+Price: Mezcal reposado, Galliano, triple sec, cucumber, tajin
+
+Description $8.95
+Description Mezcal reposado, Galliano, triple sec, cucumber, tajin
+
+Menu Category Tequiladas
+
+ Tequila Cocktails
+
+Item Margarita
+
+Price: $8.95
+Price: Made with tequila, and fresh squeezed lime juice. Also available in strawberry, mango and passion fruit.
+
+Description $8.95
+Description Made with tequila, and fresh squeezed lime juice. Also available in strawberry, mango and passion fruit.
+
+Item Cadillac Margarita
+
+Price: $9.50
+Price: Wonderfully made with Tequila Espolón Reposado & Grand Marnier
+
+Description $9.50
+Description Wonderfully made with Tequila Espolón Reposado & Grand Marnier
+
+Item La Margarita Perfecta
+
+Price: $9.95
+Price: Perfectly made with Tequila 7 Leguas and equal parts of agave syrup and hand squeezed lime
+
+Description $9.95
+Description Perfectly made with Tequila 7 Leguas and equal parts of agave syrup and hand squeezed lime
+
+Item Paloma Centenaria
+
+Price: $7.95
+Price: A traditional paloma made with centenario silver tequila
+
+Description $7.95
+Description A traditional paloma made with centenario silver tequila
+
+Item Piedra Antigua
+
+Price: $8.50
+Price: Sweet anise, fernet, and Antiguo tequila
+
+Description $8.50
+Description Sweet anise, fernet, and Antiguo tequila
+
+Item Hornitos Sunrise
+
+Price: $8.50
+Price: A traditional tequila sunrise made with Hornitos tequila
+
+Description $8.50
+Description A traditional tequila sunrise made with Hornitos tequila
+
+Item Corazón de Charro Negro
+
+Price: $8.50
+Price: Coke, lime juice and Corazon tequila
+
+Description $8.50
+Description Coke, lime juice and Corazon tequila
+
+Item Vampiro Milagroso
+
+Price: $8.50
+Price: Bloody mary made with Milagro Silver tequila
+
+Description $8.50
+Description Bloody mary made with Milagro Silver tequila
+
+Item 1,800 Cucarachas
+
+Price: $7.00
+Price: Flaming 1800 tequila w/ Kahlua
+
+Description $7.00
+Description Flaming 1800 tequila w/ Kahlua
+
+Item Moppet Antiguo
+
+Price: $6.00
+Price: Shot of tequila Antiguo shaken with squirt
+
+Description $6.00
+Description Shot of tequila Antiguo shaken with squirt
+
+Item La Margarita Flaquita
+
+Price: $9.50
+Price: Skinny Margarita with Partida tequila, agave syrup, and fresh lime juice (under 200 calories)
+
+Description $9.50
+Description Skinny Margarita with Partida tequila, agave syrup, and fresh lime juice (under 200 calories)
+
+Menu Category Draft Beer
+
+ Cerveza de Barril
+
+Item Premium
+
+Price: $4.50 - $13.00
+Price: Victoria
+
+Description $4.50 - $13.00
+Description Victoria
+
+Item Classics
+
+Price: $4.50 - $12.50
+Price: Modelo Especial, Negra Modelo, Pacifico
+
+Description $4.50 - $12.50
+Description Modelo Especial, Negra Modelo, Pacifico
+
+Menu Category Bottled Beer
+
+ Cerveza en Botella
+
+Item Imported Classics
+
+Price: $4.75 - $7.25
+Price: Corona, Modelo Especial, Negra Modelo, Bohemia, Tecate, Pacifico, XX Lager, XX Obscura, Victoria
+
+Description $4.75 - $7.25
+Description Corona, Modelo Especial, Negra Modelo, Bohemia, Tecate, Pacifico, XX Lager, XX Obscura, Victoria
+
+Item Domestic Premium
+
+Price: $4.25 - $6.75
+Price: Heinkenen
+
+Description $4.25 - $6.75
+Description Heinkenen
+
+Item Domestic Classics
+
+Price: $3.75 - $6.75
+Price: Budweiser, Bud Light
+
+Description $3.75 - $6.75
+Description Budweiser, Bud Light
+
+Menu Category Mezcal List
+
+ 
+
+Item Mezcal Tastings
+
+Price: $8.00 - $19.00
+Price: Can't decide? Let us choose 3 Mezcales for you to find your favorite
+
+Description $8.00 - $19.00
+Description Can't decide? Let us choose 3 Mezcales for you to find your favorite
+
+Item Alipús | De San Andrés {48.1%}
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Alipús | De San Baltazar {48.4%}
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item Alipús | De San Juan {48.5%}
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item San Juan del Río {48%}
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item El Embajador | Silver {40%}
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item El Embajador | Reposado {40%}
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item La Puritita Verda' {40%}
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Los Amantes | Reposado {40%}
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Benesin {45%}
+
+Price: $12.00
+Price: 
+
+Description $12.00
+Description 
+
+Item Pierde Almas | Espadín {51.6 %}
+
+Price: $12.00
+Price: 
+
+Description $12.00
+Description 
+
+Item Metl | Blanco {48%}
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item Metl | Reposado {40%}
+
+Price: $11.00
+Price: 
+
+Description $11.00
+Description 
+
+Item Metl | Blend · Madrecuishe y Espadín {48%}
+
+Price: $11.00
+Price: 
+
+Description $11.00
+Description 
+
+Item Wahaka | Espadín {40%}
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Wahaka | Reposado con gusano {40%}
+
+Price: $11.00
+Price: 
+
+Description $11.00
+Description 
+
+Item Wahaka | Ensamble {40%}
+
+Price: $16.00
+Price: 
+
+Description $16.00
+Description 
+
+Item Wahaka | Tobalá {40%}
+
+Price: $16.00
+Price: 
+
+Description $16.00
+Description 
+
+Item Wahaka | Madrecuishe {40%}
+
+Price: $16.00
+Price: 
+
+Description $16.00
+Description 
+
+Item Sacacuento | Silver {40%}
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Sacacuento | Añejo {40%}
+
+Price: $15.00
+Price: 
+
+Description $15.00
+Description 
+
+Item Ilegal | Silver {40%}
+
+Price: $13.00
+Price: 
+
+Description $13.00
+Description 
+
+Item Ilegal | Repo {40 %}
+
+Price: $17.00
+Price: 
+
+Description $17.00
+Description 
+
+Item Ilegal | Añejo {40%}
+
+Price: $23.00
+Price: 
+
+Description $23.00
+Description 
+
+Item Fidencio | Sin Humo {40%}
+
+Price: $11.00
+Price: 
+
+Description $11.00
+Description 
+
+Item Fidencio | Espadín Clásico {44.7%}
+
+Price: $11.00
+Price: 
+
+Description $11.00
+Description 
+
+Item Fidencio | Pechuga 2011 {40%}
+
+Price: $17.00
+Price: 
+
+Description $17.00
+Description 
+
+Item Fidencio | Pechuga 2012 {51.6%}
+
+Price: $16.00
+Price: 
+
+Description $16.00
+Description 
+
+Item Fidencio | Tobalá {48%}
+
+Price: $19.00
+Price: 
+
+Description $19.00
+Description 
+
+Item Fidencio | Madrecuishe {49.4%}
+
+Price: $19.00
+Price: 
+
+Description $19.00
+Description 
+
+Item Vida {42%}
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Del Maguey | Crema de mezcal {40%}
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Del Maguey | San Luis del Río {47%}
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Del Maguey | Sto. Domingo Albarradas {50%}
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Del Maguey | Minero {49%}
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Del Maguey | Chichicapa {46%}
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Del Maguey | Arroqueño {49%}
+
+Price: $20.00
+Price: 
+
+Description $20.00
+Description 
+
+Item Del Maguey | Espadín Especial {45%}
+
+Price: $20.00
+Price: 
+
+Description $20.00
+Description 
+
+Item Del Maguey | San Luis del Río Azul {47%}
+
+Price: $20.00
+Price: 
+
+Description $20.00
+Description 
+
+Item Del Maguey | Pechuga {49%}
+
+Price: $30.00
+Price: 
+
+Description $30.00
+Description 
+
+Item Pierde Almas | Tequila webber {52.5%}
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Pierde Almas | Tobalá {47.8%}
+
+Price: $19.00
+Price: 
+
+Description $19.00
+Description 
+
+Item Pierde Almas | Tobaziche {44.1%}
+
+Price: $21.00
+Price: 
+
+Description $21.00
+Description 
+
+Item Pierde Almas | Pechuga {51%}
+
+Price: $36.00
+Price: 
+
+Description $36.00
+Description 
+
+Item El Jolgorio | Mexicano {46%}
+
+Price: $17.00
+Price: 
+
+Description $17.00
+Description 
+
+Item El Jolgorio | Madrecuishe {46%}
+
+Price: $17.00
+Price: 
+
+Description $17.00
+Description 
+
+Item Mezcalero #4 | Sierra Negra & Tepestate {48.29%}
+
+Price: $16.00
+Price: 
+
+Description $16.00
+Description 
+
+Item Herencia Mezcalero | Blanco {40%}
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Herencia Mezcalero | Reposado {40%}
+
+Price: $12.00
+Price: 
+
+Description $12.00
+Description 
+
+Item Herencia Mezcalero | Añejo {40%}
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Los Nahuales | Joven {42%}
+
+Price: $13.00
+Price: 
+
+Description $13.00
+Description 
+
+Item Los Nahuales | Repo {42.3%}
+
+Price: $16.00
+Price: 
+
+Description $16.00
+Description 
+
+Item Los Nahuales | Añejo {46.1%}
+
+Price: $21.00
+Price: 
+
+Description $21.00
+Description 
+
+Item Escorpión | Silver {40%}
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item Escorpión | Reposado {40%}
+
+Price: $11.00
+Price: 
+
+Description $11.00
+Description 
+
+Item Escorpión | Añejo {40%}
+
+Price: $12.00
+Price: 
+
+Description $12.00
+Description 
+
+Item Escorpión | Tobalá Silver {40%}
+
+Price: $30.00
+Price: 
+
+Description $30.00
+Description 
+
+Item Escorpión | Tobalá Añejo {40%}
+
+Price: $45.00
+Price: 
+
+Description $45.00
+Description 
+
+Item Don Amado | Silver {40%}
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Don Amado | Añejo {40%}
+
+Price: $11.00
+Price: 
+
+Description $11.00
+Description 
+
+Item Agave de Cortez | Silver {40%}
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Agave de Cortez | Repo {40%}
+
+Price: $12.00
+Price: 
+
+Description $12.00
+Description 
+
+Item Agave de Cortez | Xtra Añejo {40%}
+
+Price: $24.00
+Price: 
+
+Description $24.00
+Description 
+
+Item Delirio | Silver {40%}
+
+Price: $12.00
+Price: 
+
+Description $12.00
+Description 
+
+Item Delirio | Reposado {40%}
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Menu Category Tequila List
+
+ 
+
+Item Sauza - Silver
+
+Price: $6.00
+Price: 
+
+Description $6.00
+Description 
+
+Item Jose Cuervo Especial Gold
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item Hornitos Plata
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item Hornitos Reposado
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item Corazon Blanco
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item Corazon Anejo
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item Corralejo Reposado
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item Corralejo Anejo
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item Corralejo Gran Reserva
+
+Price: $18.00
+Price: 
+
+Description $18.00
+Description 
+
+Item 1800 - Reposado
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item 1800 - Silver
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item 1800 - Anejo
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Milagro Silver
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item Milagro Anejo
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Milagro Single Barrel Anejo
+
+Price: $18.00
+Price: 
+
+Description $18.00
+Description 
+
+Item Herradrua Blanco
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item Herradura Anejo
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Arette Blanco
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item Antiguo Blanco
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item Antiguo Reposado
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Antiguo Anejo
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item 7 Leguas Silver
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item 7 Leguas Reposado
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item 7 Leguas Anejo
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item Sino Reposado
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Cazadores Blanco
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item Cazadores Reposado
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item Don Julio Blanco
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item Don Julio Reposado
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item Don Julio Añejo
+
+Price: $11.00
+Price: 
+
+Description $11.00
+Description 
+
+Item Don Julio 1942
+
+Price: $19.00
+Price: 
+
+Description $19.00
+Description 
+
+Item Patron Silver
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item Patron Reposado
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Patron Anejo
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item Patron Grand Platinum
+
+Price: $32.00
+Price: 
+
+Description $32.00
+Description 
+
+Item Centenario Plata
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item Centenario Reposdao
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Centenario Anejo
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item 3 Generaciones Plata
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item 3 Generaciones Reposado
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item 3 Generaciones Anejo
+
+Price: $1.00
+Price: 
+
+Description $1.00
+Description 
+
+Item Espolon Silver
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item Espolon Repo
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item Cava de Oro Silver
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item Cava de Oro Reposado
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Cesar Monterrey Blanco
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item Cesar Monterrey Anejo
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item El Reformador Blanco
+
+Price: $7.00
+Price: 
+
+Description $7.00
+Description 
+
+Item Don Diego Santa Blnco
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item Don Diego Santa Anejo
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Hacienda La Flor Blnco
+
+Price: $8.00
+Price: 
+
+Description $8.00
+Description 
+
+Item Hacienda La Flor Anejo
+
+Price: $16.00
+Price: 
+
+Description $16.00
+Description 
+
+Item Sol de Mexico Blanco
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Sol de Mexico Repo
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item Avion - Silver
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item 901 Tequila
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Cabo Wabo Blanco
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Chinaco Blanco
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Chinaco Anejo
+
+Price: $11.00
+Price: 
+
+Description $11.00
+Description 
+
+Item Paquí Silver
+
+Price: $12.00
+Price: 
+
+Description $12.00
+Description 
+
+Item Paquí Añejo
+
+Price: $13.00
+Price: 
+
+Description $13.00
+Description 
+
+Item Arette Artesanal Balnco
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item Arette Suave Reposado
+
+Price: $11.00
+Price: 
+
+Description $11.00
+Description 
+
+Item Arette Artesanal Anejo
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Frida Kahlo - Blanco
+
+Price: $9.00
+Price: 
+
+Description $9.00
+Description 
+
+Item Frida Kahlo - Repo
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item Ocho - Plata
+
+Price: $12.00
+Price: 
+
+Description $12.00
+Description 
+
+Item Ocho - Reposado
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Ocho - Anejo
+
+Price: $13.00
+Price: 
+
+Description $13.00
+Description 
+
+Item Ocho - Extra Anejo
+
+Price: $28.00
+Price: 
+
+Description $28.00
+Description 
+
+Item Don Fulano Blanco
+
+Price: $12.00
+Price: 
+
+Description $12.00
+Description 
+
+Item Don Fulano Repo
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Don Fulano 5yr
+
+Price: $23.00
+Price: 
+
+Description $23.00
+Description 
+
+Item Partida Blanco
+
+Price: $10.00
+Price: 
+
+Description $10.00
+Description 
+
+Item Partida Reposado
+
+Price: $11.00
+Price: 
+
+Description $11.00
+Description 
+
+Item Partida Añejo
+
+Price: $12.00
+Price: 
+
+Description $12.00
+Description 
+
+Item Cava Antigua Reposado
+
+Price: $13.00
+Price: 
+
+Description $13.00
+Description 
+
+Item Cava Antigua Anejo
+
+Price: $15.00
+Price: 
+
+Description $15.00
+Description 
+
+Item El Tesoro
+
+Price: $15.00
+Price: 
+
+Description $15.00
+Description 
+
+Item Clase Azul - Plata
+
+Price: $14.00
+Price: 
+
+Description $14.00
+Description 
+
+Item Clase Azul Repo
+
+Price: $15.00
+Price: 
+
+Description $15.00
+Description 
+
+Item DeLeon Añejo
+
+Price: $35.00
+Price: 
+
+Description $35.00
+Description 
+
+Item DeLeon Diamante
+
+Price: $25.00
+Price: 
+
+Description $25.00
+Description 
+
+Item Casa Dragones
+
+Price: $59.00
+Price: 
+
+Description $59.00
+Description 
+
+Menu Category Turkey Dinners
+
+ serves 8-10 guests. 12-14lb Turkeys
+
+Item Turkey con Frijoles
+
+Price: $109.00
+Price: stuffed turkey, refried black beans seasoned with avocado leaves, poblano pepper spaghetti, sweet dessert salad, Mexican bread rolls (bolillos)
+
+Description $109.00
+Description stuffed turkey, refried black beans seasoned with avocado leaves, poblano pepper spaghetti, sweet dessert salad, Mexican bread rolls (bolillos)
+
+Item Turkey con Mole
+
+Price: $119.00
+Price: stuffed turkey, 1/2 gal. black mole, poblano pepper spaghetti, sweet dessert salad, Mexican bread rolls (bolillos)
+
+Description $119.00
+Description stuffed turkey, 1/2 gal. black mole, poblano pepper spaghetti, sweet dessert salad, Mexican bread rolls (bolillos)
+
+Item Side Black Beans
+
+Price: $25.00
+Price: refried black beans seasoned with avocado leaves
+
+Description $25.00
+Description refried black beans seasoned with avocado leaves
+
+Item Side Green Spaghetti
+
+Price: $25.00
+Price: green poblano pepper spaghetti
+
+Description $25.00
+Description green poblano pepper spaghetti
+
+Item Side Dessert Salad
+
+Price: $15.00
+Price: carrots, apples, pineapple, and raisins with a sweet Mexican cream dressing
+
+Description $15.00
+Description carrots, apples, pineapple, and raisins with a sweet Mexican cream dressing
+
+Item Side Stuffing
+
+Price: $25.00
+Price: ground pork, and beef, carrots, roasted apples, raisins, almonds and onions
+
+Description $25.00
+Description ground pork, and beef, carrots, roasted apples, raisins, almonds and onions
+
+Menu Category Buffet Catering Menu
+
+ Staffing fees vary and are charged separately. Prices include high-end disposable serving ware (plates, utensils, napkins), set-up, pick up and three-hour food service
+
+Item Barbacoa de Pollo
+
+Description Oaxaca chicken barbacoa
+
+Item Pechuga Enchipotlada
+
+Description chicken breast on a chipotle sauce sautéed with mushrooms
+
+Item Costilla de Puerco en Salsa Morita
+
+Description pork spare ribs in morita sauce
+
+Item Mole Negro, Rojo, Estofado or Coloradito
+
+Description Coloradito, Estofado, Red or Black Mole,. All of our moles can be served with chicken or pork
+
+Item Tamales Oaxaqueños
+
+Description Oaxaca black mole tamales wrapped in banana leaf
+
+Item Tacos de Barbacoa
+
+Description barbacoa tacos made on-site
+
+Item Taquitos Fritos de Picadillo o Papa
+
+Description crispy potato or chicken picadillo taquitos
+
+Item Enchiladas Campesinas
+
+Description hand-made tortillas stuffed with cheese or chicken covered in mole
+
+Item Chiles Rellenos
+
+Description chiles rellenos stuffed with chicken or cheese
+
+Item Carnitas
+
+Description pork carnitas
+
+Item Salsa de Carne Frita
+
+Description braised spare ribs served in a roasted tomato and jalapeño sauce
+
+Item Empanadas
+
+Description grilled hand-made tortillas, stuffed with squash blossoms, Oaxaca string cheese, or corn truffles.
+
+Item Camarones al Mojo de Ajo
+
+Description garlic tossed sizzled shrimp
+
+Item Camarones Enchipotlados
+
+Description chipotle tossed sizzled shrimp
+
+Menu Category Catering Sides
+
+ All of our packages include two side
+
+Item Arroz Blanco con Verduras
+
+Description white rice with seasonal vegetables
+
+Item Frijoles Negros
+
+Description black beans
+
+Item Ensalada de Nopalitos
+
+Description grilled cacti salad
+
+Item Ensalada Verde
+
+Description tossed green salad
+
+Item Ensalada de Frutas
+
+Description seasonal fruit salad
+
+Menu Category Desserts
+
+ Can be tray passed or served as buffet items
+
+Item Pastel Tres Leches
+
+Description Mexico's traditional tres leches cake made from scratch
+
+Item Choco-Flan
+
+Description traditional flan layered on top of a chocolate cake
+
+Item Flan
+
+Description traditional Mexican cheese flan
+
+Item Arroz con Leche
+
+Description rice pudding made with milk, cinnamon, and raising
+
+Menu Category Tray Passed Appetizers
+
+ Staffing f

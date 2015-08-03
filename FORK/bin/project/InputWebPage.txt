@@ -1,0 +1,1563 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>        
+        <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>John's Pizzeria  menu - New York, NY 10036 - (212) 391-7560</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" >
+        <meta name="description" content="Restaurant menu, map for John's Pizzeria located in 10036, New York NY, 260 W 44th St" >
+        <meta name="keywords" content="John's Pizzeria, menu, 10036, New York NY, restaurant, Italian, Pizza" >
+                
+        <!--
+        <meta property="fb:app_id" content="2396679921" >
+        <meta property="fb:admins" content="615517, 502157015" >
+        <meta property="og:type" content="website" >
+        <meta property="og:url" content="http://www.allmenus.com/" >
+        <meta property="og:image" content="http://www.allmenus.com/cdn/am/images/icons/am_logo_400x70.jpg">
+        <meta property="og:title" content="John's Pizzeria  menu - New York, NY 10036 - (212) 391-7560" >
+        <meta property="og:description" content="Restaurant menu, map for John's Pizzeria located in 10036, New York NY, 260 W 44th St" >
+        -->
+
+
+        <script type="text/javascript">
+            <!-- Split from analytics calls of ga.js included at the bottom of the page. -->
+            <!-- Provides the ability to customize event tracking, page loads, etc. -->
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-1071671-1']);
+                        _gaq.push(['_trackPageview','/restaurant/Italian']);
+        </script>
+        <script type="text/javascript">
+            var staticFiles = "http://d16m09fcqghqvs.cloudfront.net/allmenus/common/";
+            var pagetype = "restaurant";
+            var cuisinetype = "italian";
+        </script>
+        <link rel="stylesheet" type="text/css" href="http://d16m09fcqghqvs.cloudfront.net/allmenus/css/jquery-ui-1.8.19.custom.css" />
+        <link rel="stylesheet" type="text/css" href="http://d16m09fcqghqvs.cloudfront.net/allmenus/css/all.css" />
+        <link rel="stylesheet" type="text/css" href="http://d16m09fcqghqvs.cloudfront.net/allmenus/css/sprites.css" />
+        <link rel="shortcut icon" href="http://d16m09fcqghqvs.cloudfront.net/favicon.ico">
+        <style>
+            body {color: #686868; font-family: verdana, sans-serif; font-size: 11px; background: url('http://d16m09fcqghqvs.cloudfront.net/allmenus/images/pieces/header_bg_full.png') 0 0; background-repeat: repeat-x; margin: 0;}
+        h1 {
+    background-color: #fff; 
+    color: black; 
+    font-size: 20px; 
+    margin: 0px;
+}
+h2 {
+    display: none;
+}
+h3 {
+    background-color: #fff; 
+    color: #df3500;
+    font-size: 16px;
+    margin: 10px 0 0 0;
+}
+.category_head {
+    border-bottom: #df3500 dotted 2px;
+    color: #999;
+    padding-bottom: 5px;
+}
+hr {position: relative; 
+    left: -10px; 
+    background-color:  #d5e5f7; 
+    color: #d5e5f7; 
+    width: 730px; 
+    height: 1px; 
+    border: 0; 
+    border-bottom: 1px #fff solid; 
+    margin: 4px 0 0 0;}
+.even {
+    background-color: #fff;
+}
+.category ul {
+    width: 730px;
+    float: left;
+    clear: both;
+    display: block;
+    margin: 0 0 20px 0;
+}
+.category li {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.category li.nottop {
+    border-top: #999 dotted thin;
+}
+.category li.lastones {
+    border-bottom: #999 dotted thin;
+}
+.category li.odd {
+    margin-right: 20px;
+}
+.menu_item {
+    width: 355px;
+    float: left;
+}
+.menu_item .name {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.menu_item .price {
+    float: right;
+    font-weight: bold;
+}
+.menu_item .description {
+    color: #999;
+}
+.dine_button {
+    float: right;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.dine_logo {
+    float: left;
+    padding-right: 10px;
+}
+.user_avatar {
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding-right: 10px;
+}
+.rating_icon {
+    float: right;
+}
+.review_count {
+    position: relative; 
+    top: -7px;
+    clear: both; 
+    float: right; 
+    font-size: 10px;
+}
+.review_credit {
+    position: relative; 
+    top: -15px; 
+    clear: both;
+    font-weight: bold; 
+}
+.review_credit img {
+    position: relative; 
+    top: 5px;
+}
+.yelp_rating, .cs_rating, .date, .source {
+    margin-left: 50px;
+}
+.snippet {
+    clear: left;
+    padding-top: 5px;
+}
+.bottomboard {
+    width: 730px;
+    overflow: hidden;
+}
+.house_leaderboard {height: 95px; padding-top: 5px; text-align: center;}
+.house_mantle {background-color: #fff; width:300px; height: 250px; padding: 10px 0 0 0;}
+.house_leaderboard img, .house_mantle img {border: none;}
+.offsite_icon {padding-left: 3px; border: none;}
+#restaurant {float: left; width: 730px;}
+#content {width:1090px !important;}
+
+#menu, #alternative_menus {
+    width: 730px;
+}
+#alternative_menus {
+    font-weight: bold;
+}
+#menu {
+    min-height: 770px;
+}
+#alternative_menus .current_group a {
+    color: #999;
+    font-weight: normal;
+}
+#alternative_menus ul {
+    text-align: center;
+}
+#alternative_menus li {
+    display: inline;
+}
+#primary_info {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #999;
+    font-size: 12px;    
+        border-bottom: #999 dotted thin;
+    }
+#primary_info span {
+    margin-right: 20px;
+}
+#primary_info .address_part {
+    display: inline;
+    margin: 0;
+}
+#primary_info span#website {
+    font-weight: bold;
+    white-space: nowrap;
+}
+#phone_number {
+    color: #666;
+    display: block;
+    padding-top: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+#cuisines {
+    padding-top: 10px;
+}
+#cuisines ul, #cuisines li {
+    display: inline;
+}
+#online_ordering {
+    padding: 15px 0;
+}
+#reservations {
+    margin: 20px 0px 40px 0px;
+}
+#gh_button, #am_button, #ot_button, #other_button {
+    border: none;
+}
+
+.other_icon {
+    float: left;
+    padding-right: 5px;
+}
+#allmenus_ordering {
+    padding-top: 5px;
+    padding-left: 40px;
+    width: 400px;
+    height: 29px;
+}
+#grubhub_ordering, #other_ordering {
+    padding-top: 5px;
+    padding-left: 40px;
+    margin-bottom: 8px;
+    width: 420px;
+    height: 21px;
+}
+#online_ordering img#gh_logo {
+    position: relative;
+    top: 1px;
+}
+#reservations img, #reservations input[type=image] {
+    position: relative;
+    top: 6px;
+}
+#decision_assistance {
+    background-color: #eaf4ff;
+    padding: 0 10px 10px 10px;
+    margin-bottom: 20px;
+}
+#decision_assistance #review_teaser {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 0 0 0;
+}
+#decision_assistance #reviews_and_rating {    
+    position: relative;
+    top: 0;
+    padding: 0;
+}
+#review_teaser {
+    background-color: #eaf4ff;
+    padding: 10px;
+    margin: 10px 0 0 0;
+}
+#teaser_label {
+    padding-bottom: 5px;
+}
+#review_teaser #toggle {
+    display: inline;
+}
+#reviews_and_rating {
+    position: relative;
+    top: -8px;
+    padding: 5px 10px 10px 10px;
+    background-color: #eaf4ff;
+}
+#reviews_plus {margin-right: 5px;}
+
+#reviews ul {
+    display: block;
+    width: 730px;
+}
+#reviews li {
+    display: inline;
+    width: 315px;
+    height: 100px;
+    padding: 0;
+    margin: 0;
+    float: left;
+    padding-bottom: 20px;
+}
+#reviews li.even {
+    background-color: #eaf4ff;
+}
+#reviews li.odd {
+    margin-right: 20px;
+}
+#descriptions {
+    clear: both;
+    display: block;
+}
+#secondary {position: relative; top: 6px; float: right; width: 300px;}
+#map {
+    width: 300px;
+    height: 236px;
+    overflow: hidden;
+}
+#map p {
+    position: relative;
+    top: -20px;
+    background-color: #eaf4ff;
+    font-size: 12px;
+    padding: 10px;
+}
+#map img {
+    border: none;
+}
+#print-link {
+    position: absolute; right: 310px; top: 0px; border:none;
+}
+#disclaimer {
+    margin-top: 30px; 
+    padding: 5px; 
+    font-style: italic;
+}
+#disclaimer p {
+    margin-bottom: 10px;
+}
+#claim_your_listing {
+    overflow: auto;
+    padding: 20px 5px 10px 5px; 
+}
+#owner_icon {float: left;}
+
+#datetime {width: 120px;}
+#datepicker_opentable {width: 80px; display: none;}
+#time {width: 90px; display: none;}
+.ui-datepicker-header, .ui-datepicker-calendar {
+    background-color: #fff;
+    padding: 2px;
+    border: 1px #666 solid;
+}
+.ui-datepicker-header {border-bottom: none;}
+.ui-datepicker-next {float: right;}
+.ui-datepicker-title {text-align: center;}
+
+#other_dining_options {
+    background-color: #eaf4ff;
+    padding: 10px 10px 0 10px;
+}
+#other_dining_options h3 {
+    font-size: 12px;
+    font-weight: normal;
+    color: black;
+    background-color: #eaf4ff;
+    border: none;
+    margin-top: 0;
+    padding-bottom: 0;
+}
+#other_dining_options li {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.sp_menu_hidden{
+    display: none;
+}
+
+#no_menu_blankspace{
+    height:890px;
+}
+
+#top_ad{
+    height:95px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+#allmenus_logo{
+    width: 1090px !important;
+}
+
+#header div{
+    width:1090px !important;
+}
+
+#instagram_photos { padding: 23px 5px 13px 5px; margin-top: 15px; background-color:#eaf4ff; overflow:hidden; white-space:nowrap; }
+#instagram_photos .viewport { float: left; width: 646px; height: 130px; overflow: hidden; position: relative; }
+#instagram_photos .next { margin-left: 0px; }
+#instagram_photos .prev { margin-right: 10px; float:left;}
+#instagram_photos .carousel_arrow {font-size: 33px;  font-family: "Lucida Sans Unicode",  "Lucida Grande", sans-s; line-height:130px; }
+#instagram_photos .disable { color: #c9c9c9 }
+#instagram_photos .disable:hover { color: #c9c9c9 }
+#instagram_photos .overview { list-style: none; position: absolute; padding: 0; margin: 0; left: 0; top: 0; } 
+#instagram_photos .overview li{ float: left; margin: 0 32px 0 0; padding: 1px; height: 130px; border: 1px solid #dcdcdc; width: 130px;}
+#instagram_photos a {text-decoration: none; border: 0px; }
+#instagram_photos img {border: 0px; height: 130px; width: 130px}
+#instagram_photos #instagram_title { padding-top: 0px; float:right; position:relative; top:10px; }
+#instagram_tos, #foursqaure_tos { display: block }
+
+#opentable_widget_wrapper{margin-top:10px;}
+#ot_button {width:150px;}
+#ot_submit{border: none; padding: 0; margin: 0; background: transparent; float:right; top:-19px; position:relative; }
+.OT_wrapper { width: 735px !important; float:none !important;}
+.OT_day { border-left: none !important; }
+.OT_list { margin: 0 0 0 0px !important; } 
+.OT_header { display: none !important; }
+.OT_ExtLink { text-align:left !important; }
+
+.groupon_wrapper { border-top: #999 dotted thin; border-bottom: #999 dotted thin; margin-top:10px; padding:10px 0px 10px 0px; width:100%;}
+.groupon_wrapper span {margin-right:7px; font-weight:900;}
+.groupon_wrapper a {font-weight:bold;}
+.groupon_wrapper img { vertical-align: bottom; position: relative; margin-right: 7px; padding-left:9px;}
+.groupon_tag {width:10px;}
+
+#review_teaser {margin-top: 0;}
+        </style>
+        <!--[if IE 7]>
+        <link type="text/css" rel="stylesheet" href="http://d16m09fcqghqvs.cloudfront.net/allmenus/css/ie7.css" />
+        <![endif]-->
+        <!--[if IE 8]>
+        <link type="text/css" rel="stylesheet" href="http://d16m09fcqghqvs.cloudfront.net/allmenus/css/ie8.css" />
+        <![endif]-->
+
+    </head>
+    <body itemscope itemtype="http://schema.org/WebPage">
+                <div id="content">
+
+<div itemscope itemtype="http://schema.org/Restaurant" id="restaurant">
+    <h1 itemprop="name">John's Pizzeria</h1>
+    
+    <div id="primary_info">
+        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" id="address">
+            <span class="address_part" itemprop="streetAddress">260 W 44th St</span>, 
+            <span class="address_part" itemprop="addressLocality">New York</span>
+            <span class="address_part" itemprop="addressRegion">NY</span>
+            <span class="address_part" itemprop="postalCode">10036</span>
+        </span>
+        <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+            <meta itemprop="latitude" content="40.758106">
+            <meta itemprop="longitude" content="-73.988588">
+        </span>
+                                    <span itemprop="url" id="website">
+            <a data-clickstream data-cs-fires-on-click="clicked_restaurant_site"
+            data-cs-with-property-restaurant-allmenus-id="248742"  href="http://www.johnspizzerianyc.com" target="_blank">
+            
+            johnspizzerianyc.com</a><span class="sprite sprite-offsite"></span></span>        <span itemprop="telephone" id="phone_number">(212) 391-7560</span>
+
+        <div id="cuisines">
+            Cuisines and Dishes at John's Pizzeria:
+            <ul>
+                <li>Italian</li><li> Pizza</li>            </ul>
+        </div>
+    </div>  
+                        <h2>Menu for John's Pizzeria</h2>
+             
+                            <div id="top_ad"></div>
+                        <div id="menu">
+                                                         
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Appetizers</h3>
+                                    <p> </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Garlic Bread</span>
+                                            <span class="price">$2.50</span>                                            <p class="description">topped with melted mozzarella cheese</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Garlic Loaf Bread</span>
+                                            <span class="price">$7.00 - $4.00</span>                                            <p class="description">half loaf</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">John's Garlic Rolls</span>
+                                            <span class="price">$8.00 - $6.50</span>                                            <p class="description">fresh garlic, olive oil and mozzarella cheese wrapped in our homemade dough and served with marinara sauce for dipping</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Bruschetta</span>
+                                            <span class="price">$7.75</span>                                            <p class="description">toasted italian bread topped with diced tomatoes, garlic, olive oil and basil</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Sicilian Wings</span>
+                                            <span class="price">$13.00 - $7.25</span>                                            <p class="description">our chicken wings are tossed with crushed red pepper, fresh garlic and rosemary. served with real bleu cheese dressing</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Fried Calamari</span>
+                                            <span class="price">$12.00</span>                                            <p class="description">fried calamari served with marinara sauce</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Mozzarella Wedges</span>
+                                            <span class="price">$8.75</span>                                            <p class="description">john's homemade breaded mozzarella wedges fried golden brown and served with marinara sauce</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Roasted Veggie Platter</span>
+                                            <span class="price">$9.00</span>                                            <p class="description">array of roasted fresh seasonal vegetables</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Soup Of The Day</span>
+                                            <span class="price">$5.00</span>                                            <p class="description">seasonal</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Pizza Rolls</span>
+                                            <span class="price">$12.00 - $10.50</span>                                            <p class="description">our homemade dough stuffed with your choice of: fresh sausage spiced with fennel, mushrooms, onions, peppers with mozzarella cheese, sauteed spinach with mozzarella cheese</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Salads</h3>
+                                    <p>Add Grilled Or Breaded Chicken Cutlet To Any Salad $4.75, Ranch And Bleu Cheese Dressings $1 Extra. Our Salads Can Be Shared By Two Or Three People. </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Our House Salad</span>
+                                            <span class="price">$9.50</span>                                            <p class="description">fresh crisp romaine lettuce topped with mushrooms, tomatoes, red onions and john's homemade vinaigrette dressing</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Spinach Salad</span>
+                                            <span class="price">$12.25</span>                                            <p class="description">baby spinach topped with sliced black olives, crumbled bleu cheese, apples, walnuts, red onions and john's homemade dressing</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Arugula Salad</span>
+                                            <span class="price">$11.75</span>                                            <p class="description">arugula, mandarin oranges, and shaved parmesan cheese tossed in a light citrus dressing</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Caesar Salad</span>
+                                            <span class="price">$10.00</span>                                            <p class="description">fresh crisp romaine lettuce, shaved parmesan cheese, and croutons tossed in our own caesar dressing</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Antipasto</span>
+                                            <span class="price">$11.95</span>                                            <p class="description">prosciutto, hot soppressata, fresh mozzarella cheese, roasted red peppers, hot cherry peppers, grilled zucchini and sun dried tomatoes served on a bed of mixed greens</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Pizza</h3>
+                                    <p>Sm (6 Slices) / Med (8 Slices). New York's Most Famous Coal - Fired Brick Oven Thin Crust Pizza! Since 1997 Try Our Whole Wheat Dough $1.50 Extra </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Traditional</span>
+                                            <span class="price">$16.50 - $14.25</span>                                            <p class="description">mozzarella cheese and tomato sauce</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Margherita</span>
+                                            <span class="price">$19.75 - $17.50</span>                                            <p class="description">fresh mozzarella cheese, fresh basil and tomato sauce</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Pizza Bianca</span>
+                                            <span class="price">$19.25 - $17.00</span>                                            <p class="description">ricotta and mozzarella cheese (no tomato sauce)</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Marinara</span>
+                                            <span class="price">$13.00 - $15.25</span>                                            <p class="description">tomato sauce and fresh garlic (no cheese)</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Hawaiian Pizza</span>
+                                            <span class="price">$19.75 - $22.00</span>                                            <p class="description">mozzarella cheese, ham, pineapple, and tomato sauce</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Bruschetta</span>
+                                            <span class="price">$17.25 - $19.50</span>                                            <p class="description">mozzarella cheese and diced roma tomatoes marinated in olive oil, fresh garlic and basil (no tomato sauce)</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Pizza</h3>
+                                    <p> </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd lastones">
+                                            <span class="name">Our Calzone</span>
+                                            <span class="price">$18.00</span>                                            <p class="description">can be shared by two or three people. a large half-moon shaped pocket of dough stuffed with mozzarella and ricotta cheese baked in our coal-fired brick oven. pizza toppings may be added to the filling</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Pizza Toppings</h3>
+                                    <p> Additional Toppings On Whole, Half, Or Quarter Pies Are The Same Price.</p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Breaded Chicken Cutlet</span>
+                                            <span class="price">$4.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Grilled Chicken</span>
+                                            <span class="price">$4.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Prosciutto</span>
+                                            <span class="price">$4.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Meatball</span>
+                                            <span class="price">$3.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Italian Pork Sausage</span>
+                                            <span class="price">$2.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Pepperoni</span>
+                                            <span class="price">$2.50</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Ham</span>
+                                            <span class="price">$3.00</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Anchovies</span>
+                                            <span class="price">$2.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Ricotta Cheese</span>
+                                            <span class="price">$2.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Fresh Mozzarella</span>
+                                            <span class="price">$3.50</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Extra Cheese</span>
+                                            <span class="price">$2.50</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Breaded Eggplant</span>
+                                            <span class="price">$3.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Basil</span>
+                                            <span class="price">$2.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Fresh Garlic</span>
+                                            <span class="price">$2.00</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Roasted Red Peppers</span>
+                                            <span class="price">$3.00</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Bell Peppers</span>
+                                            <span class="price">$2.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Sun Dried Tomatoes</span>
+                                            <span class="price">$2.50</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Tomato Slices</span>
+                                            <span class="price">$2.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Black Olives</span>
+                                            <span class="price">$2.00</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Spinach</span>
+                                            <span class="price">$2.50</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Broccoli</span>
+                                            <span class="price">$2.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Pineapple</span>
+                                            <span class="price">$2.50</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Mushrooms</span>
+                                            <span class="price">$2.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Onions</span>
+                                            <span class="price">$2.00</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Hot Cherry Peppers</span>
+                                            <span class="price">$2.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Pasta</h3>
+                                    <p>Add Grilled Chicken $4.75 </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Cheese Ravioli</span>
+                                                                                        <p class="description">pasta pockets stuffed with ricotta cheese</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Cheese Ravioli</span>
+                                            <span class="price">$12.75</span>                                            <p class="description">marinara</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Cheese Ravioli</span>
+                                            <span class="price">$13.75</span>                                            <p class="description">bolognese</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Spinach Ravioli</span>
+                                                                                        <p class="description">pasta pockets stuffed with spinach &amp; ricotta cheese</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Spinach Ravioli</span>
+                                            <span class="price">$13.75</span>                                            <p class="description">marinara</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Spinach Ravioli</span>
+                                            <span class="price">$14.75</span>                                            <p class="description">bolognese</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Ravioli Alle Vodka</span>
+                                            <span class="price">$15.25</span>                                            <p class="description">pasta pockets stuffed with ricotta cheese served with homemade vodka sauce, peas and diced prosciutto</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Baked Ziti</span>
+                                                                                        <p class="description">ziti pasta baked with ricotta cheese, topped with melted mozzarella cheese</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Baked Ziti</span>
+                                            <span class="price">$12.50</span>                                            <p class="description">marinara</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Baked Ziti</span>
+                                            <span class="price">$13.50</span>                                            <p class="description">bolognese</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Spaghetti &amp; Meatballs</span>
+                                            <span class="price">$14.25</span>                                            <p class="description">traditional italian favorite</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Spaghetti Bolognese</span>
+                                            <span class="price">$12.00</span>                                            <p class="description">served with meat sauce</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Penne Alle Vodka</span>
+                                            <span class="price">$14.00</span>                                            <p class="description">penne pasta served in our light vodka cream tomato sauce, peas and diced prosciutto</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Penne Arrabbiata</span>
+                                            <span class="price">$11.50</span>                                            <p class="description">penne pasta served in a spicy marinara sauce</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Pasta Primavera</span>
+                                            <span class="price">$14.75</span>                                            <p class="description">your choice of pasta: spaghetti, penne, whole wheat penne, linguine, ziti or fettuccini sauteed with broccoli, mushrooms, zucchini, sun dried tomatoes in a garlic and olive oil sauce</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Linguine Alle Vongole</span>
+                                            <span class="price">$15.75</span>                                            <p class="description">linguine pasta served with little neck clams and your choice of red or white sauce</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Linguine Alle Calamari</span>
+                                            <span class="price">$15.75</span>                                            <p class="description">calamari rings sauteed in wine, garlic and marinara sauce, served over linguine pasta</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Chicken Fettuccini Alfredo</span>
+                                            <span class="price">$15.25</span>                                            <p class="description">fettuccine pasta in a creamy white sauce served with breaded chicken and broccoli</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Fettuccini Alle Pesto</span>
+                                            <span class="price">$13.00</span>                                            <p class="description">fettuccine pasta in a light creamy basil sauce</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Whole Wheat Penne</span>
+                                            <span class="price">$12.00</span>                                            <p class="description">marinara</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Whole Wheat Penne</span>
+                                            <span class="price">$13.00</span>                                            <p class="description">bolognese</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Gluten Free Penne</span>
+                                            <span class="price">$12.75</span>                                            <p class="description">gluten free penne served with your choice of marinara sauce or sauteed in garlic and oil</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Entrees</h3>
+                                    <p> </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Chicken Parmigiana</span>
+                                                                                        <p class="description">breaded chicken cutlet topped with your choice of sauce and mozzarella cheese, served with spaghetti or ziti</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Chicken Parmigiana</span>
+                                            <span class="price">$15.75</span>                                            <p class="description">marinara</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Chicken Parmigiana</span>
+                                            <span class="price">$16.75</span>                                            <p class="description">bolognese</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Chicken Marsala</span>
+                                            <span class="price">$16.00</span>                                            <p class="description">boneless chicken breast sauteed in a marsala wine and mushroom sauce. served with you choice of broccoli, spinach, or on a bed of pasta</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Chicken Scampi</span>
+                                            <span class="price">$16.00</span>                                            <p class="description">boneless chicken breast sauteed in white wine, lemon, and garlic. served with you choice of broccoli, spinach, or on a bed of pasta</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Eggplant Parmigiana</span>
+                                                                                        <p class="description">breaded eggplant topped with your choice of sauce and mozzarella cheese, served with spaghetti or ziti</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Eggplant Parmigiana</span>
+                                            <span class="price">$14.75</span>                                            <p class="description">marinara</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Eggplant Parmigiana</span>
+                                            <span class="price">$15.75</span>                                            <p class="description">bolognese</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Eggplant Rollatini</span>
+                                            <span class="price">$15.75</span>                                            <p class="description">breaded eggplant stuffed with ricotta cheese, topped with marinara sauce and mozzarella cheese served with sauteed spinach</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Sandwiches</h3>
+                                    <p>All Sandwiches Are Served On Toasted Italian Bread </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Chicken Milanese</span>
+                                            <span class="price">$11.50</span>                                            <p class="description">breaded chicken cutlet with fresh mozzarella cheese, sun dried tomatoes and fresh basil</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Chicken Cutlet Parmigiana</span>
+                                            <span class="price">$11.50</span>                                            <p class="description">breaded chicken cutlet topped with tomato sauce and melted mozzarella cheese</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Meatball Parmigiana</span>
+                                            <span class="price">$11.00</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Eggplant Parmigiana</span>
+                                            <span class="price">$11.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Italian Sausage</span>
+                                            <span class="price">$11.50</span>                                            <p class="description">sausage spiced with fennel covered with peppers and onions</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">John's Breast Of Chicken</span>
+                                            <span class="price">$11.50</span>                                            <p class="description">grilled breast of chicken topped with roasted red peppers, fresh mozzarella cheese and basil</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Paninis $11</h3>
+                                    <p>All Panini Sandwiches Are Served With Mixed Greens </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Italiano</span>
+                                                                                        <p class="description">grilled chicken, roasted red peppers fresh mozzarella cheese with pesto sauce</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Chicken Parmigiana</span>
+                                                                                        <p class="description">breaded chicken cutlet topped with marinara sauce and mozzarella cheese</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Sicilian</span>
+                                                                                        <p class="description">hot sopressata, prosciutto, fresh mozzarella cheese and sun dried tomatoes</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Verdura</span>
+                                                                                        <p class="description">breaded eggplant, roasted red peppers, sun dried tomatoes and fresh mozzarella cheese</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>John's Frozen Specialties</h3>
+                                    <p> </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Pina Colada</span>
+                                            <span class="price">$14.75</span>                                            <p class="description">a blend of cream of coconut, pineapple juice and light rum</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Strawberry Daiquiri</span>
+                                            <span class="price">$13.75</span>                                            <p class="description">strawberries blended with light rum</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Mudslide</span>
+                                            <span class="price">$15.00</span>                                            <p class="description">blended kahlua, bailey's irish cream and absolut vodka</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Absolut Mango</span>
+                                            <span class="price">$14.75</span>                                            <p class="description">mango blended with absolut vodka and orange juice</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Side Orders</h3>
+                                    <p> </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Vegetables</span>
+                                            <span class="price">$5.25</span>                                            <p class="description">your choice of broccoli or spinach sauteed in garlic and oil</p>
+                                        </li>
+                                                                            <li class="menu_item even lastones">
+                                            <span class="name">Meatballs, Sausage Or Meatball &amp; Sausage</span>
+                                            <span class="price">$4.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">1/2 Order Of Spaghetti</span>
+                                            <span class="price">$5.75</span>                                            <p class="description">with butter or marinara</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Soft Drinks</h3>
+                                    <p> </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Soda &amp; Soft Drinks</span>
+                                            <span class="price">$2.50 - $7.50</span>                                            <p class="description">pepsi, diet pepsi, orange slice, sierra mist, mugs root beer, club soda, ginger ale, hawaiian punch, fresh brewed iced tea and lemonade. (we do not offer free refills)</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Fruit Juice</span>
+                                            <span class="price">$3.25 - $9.75</span>                                            <p class="description">orange, pineapple, cranberry, grapefruit &amp; tomato</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Shirley Temple</span>
+                                            <span class="price">$3.25 - $9.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">&quot;Sun&quot;-Sational Smoothies</span>
+                                            <span class="price">$7.00</span>                                            <p class="description">your choice of pina colada or strawberry or mango</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Pellegrino</span>
+                                            <span class="price">$7.25</span>                                            <p class="description">italian sparkling water</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Bottled Water</span>
+                                            <span class="price">$2.00</span>                                            <p class="description"></p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Absolut &quot;Up And Over&quot; Cocktails $14.75</h3>
+                                    <p>All Cocktails Are Oversized And Served In A Chilled (10.5oz) Martini Glass Or Pint Glass. </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Absolut &quot;Anything Goes&quot;</span>
+                                                                                        <p class="description">traditional absolut vodka martini with your choice of bleu cheese stuffed olives, green olives, onions or a twist</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Big Apple</span>
+                                                                                        <p class="description">absolut orient apple, sour apple pucker, &amp; cointreau</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Westside Wild Child</span>
+                                                                                        <p class="description">absolut wild tea, jack daniels, cointreau, sour mix and sierra mist</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Absolut Odalis</span>
+                                                                                        <p class="description">absolut kurant, and sour mix, with fresh squeezed lemon and lime</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Black And Blue Raz</span>
+                                                                                        <p class="description">absolut raspberri, cointreau, blue curacao and cranberry juice</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Mandarin Matinee</span>
+                                                                                        <p class="description">absolut mandarin, cointreau, st. germain, orange juice and a splash of prosecco</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Lemon Drop</span>
+                                                                                        <p class="description">absolut citron, with a splash of st. german and lime juice. served with a sugar rim.</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Pompus Pomegranate</span>
+                                                                                        <p class="description">absolut berri acai, pama, cointreau &amp; cranberry juice</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Perfect Pear</span>
+                                                                                        <p class="description">absolut pear, st. germain, cointreau &amp; pineapple juice</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Radiant Red</span>
+                                                                                        <p class="description">absolut ruby red, cointreau, cranberry &amp; grapefruit juices</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Margaritas</h3>
+                                    <p> </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Italian Margarita</span>
+                                            <span class="price">$14.75</span>                                            <p class="description">a blend of tequila, amaretto, lime juice and sour mix served with a sugar rim</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Classic Margarita</span>
+                                            <span class="price">$13.00</span>                                            <p class="description">tequila, triple sec, sour mix and lime juice. served on the rocks with a salted rim</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Cadillac Margarita</span>
+                                            <span class="price">$15.00</span>                                            <p class="description">the luxury sedan of margaritas made with grand marnier and herradura tequila</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Frozen Margarita</span>
+                                            <span class="price">$14.75</span>                                            <p class="description">your choice of classic, strawberry or mango. served with salt or sugar rim</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Draft Beers</h3>
+                                    <p>Pt / Pitcher. </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Brooklyn Lager</span>
+                                            <span class="price">$18.75 - $6.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Sam Adams</span>
+                                            <span class="price">$6.25 - $18.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Sam Adams Seasonal</span>
+                                            <span class="price">$6.25 - $18.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Sierra Nevada</span>
+                                            <span class="price">$6.25 - $18.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Budweiser</span>
+                                            <span class="price">$6.25 - $18.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Bud Light</span>
+                                            <span class="price">$18.75 - $6.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Yuengling</span>
+                                            <span class="price">$6.25 - $18.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Blue Moon</span>
+                                            <span class="price">$6.25 - $18.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Stella Artois</span>
+                                            <span class="price">$7.00 - $21.00</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Palm Belgium Ale</span>
+                                            <span class="price">$7.00 - $21.00</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Guinness</span>
+                                            <span class="price">$7.00 - $21.00</span>                                            <p class="description"></p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Bottle Beers</h3>
+                                    <p> </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Miller Light</span>
+                                            <span class="price">$6.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Coors Light</span>
+                                            <span class="price">$6.25</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Corona</span>
+                                            <span class="price">$6.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Heineken</span>
+                                            <span class="price">$6.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Peroni</span>
+                                            <span class="price">$6.75</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">O'douls</span>
+                                            <span class="price">$6.25</span>                                            <p class="description">non-alcoholic</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>White</h3>
+                                    <p> </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Pinot Grigio</span>
+                                            <span class="price">$6.50</span>                                            <p class="description">john's imported</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Pinot Grigio</span>
+                                            <span class="price">$7.00</span>                                            <p class="description">santa marina</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Chardonnay</span>
+                                            <span class="price">$7.00</span>                                            <p class="description">montevina</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Chardonnay</span>
+                                            <span class="price">$7.00</span>                                            <p class="description">chateau julien</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Riesling</span>
+                                            <span class="price">$7.00</span>                                            <p class="description">polka dot</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Sauvignon Blanc</span>
+                                            <span class="price">$8.00</span>                                            <p class="description">the crossings</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Rose</h3>
+                                    <p> </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd lastones">
+                                            <span class="name">White Zinfandel</span>
+                                            <span class="price">$6.50</span>                                            <p class="description">sutter home</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                                                                        <div class="category">
+                                <div class="category_head">
+                                    <h3>Red</h3>
+                                    <p> </p>
+                                </div>
+                                <ul>
+                                                                            <li class="menu_item odd">
+                                            <span class="name">Nero D'avola</span>
+                                            <span class="price">$6.50</span>                                            <p class="description">john's imported</p>
+                                        </li>
+                                                                            <li class="menu_item even">
+                                            <span class="name">Chianti</span>
+                                            <span class="price">$7.00</span>                                            <p class="description"></p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Shiraz</span>
+                                            <span class="price">$7.00</span>                                            <p class="description">yellowtail</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Montepulciano</span>
+                                            <span class="price">$7.00</span>                                            <p class="description">folonari</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Malbec</span>
+                                            <span class="price">$8.00</span>                                            <p class="description">ruta 22</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Cabernet Sauvignon</span>
+                                            <span class="price">$8.00</span>                                            <p class="description">main street</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop">
+                                            <span class="name">Cabernet Sauvignon</span>
+                                            <span class="price">$7.00</span>                                            <p class="description">mirassou</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop">
+                                            <span class="name">Merlot</span>
+                                            <span class="price">$7.00</span>                                            <p class="description">chateau julien</p>
+                                        </li>
+                                                                            <li class="menu_item odd nottop lastones">
+                                            <span class="name">Merlot</span>
+                                            <span class="price">$7.00</span>                                            <p class="description">red diamond</p>
+                                        </li>
+                                                                            <li class="menu_item even nottop lastones">
+                                            <span class="name">Pinot Noir</span>
+                                            <span class="price">$8.00</span>                                            <p class="description">beaulieu vineyards</p>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                          
+                     
+                    
+                             <!-- foreach menu -->
+       </div>
+       
+                             
+       
+
+       
+       <div id="disclaimer">
+            <p>Menu for John's Pizzeria provided by <a href="/">Allmenus.com</a></p>            <p><strong>DISCLAIMER</strong>: 
+            Information shown may not reflect recent changes. Check 
+            with this restaurant for current pricing and menu information. 
+            A listing on Allmenus.com does not necessarily reflect our 
+            affiliation with or endorsement of the listed restaurant, or 
+            the listed restaurant's endorsement of Allmenus.com. Please 
+            tell us by <a href="/menucenter/" rel="nofollow">clicking here</a> 
+            if you know that any of the information shown is incorrect. 
+            For more information, please read our 
+            <a href="/terms-conditions/" rel="nofollow">Terms and Conditions</a>.</p>
+        </div>
+
+                                <div id="decision_assistance">
+        <div itemscope itemtype="http://schema.org/AggregateRating" id="review_teaser">
+            <span id="teaser_label">Recent reviews for <span itemprop="itemReviewed">John's Pizzeria</span></span>
+                        <span id="overall_rating">
+                <span class="rating_icon"><img src="http://d16m09fcqghqvs.cloudfront.net/allmenus/images/icons/ratings/y7_s.png" alt="Rating 3.5 stars"></span>
+                <meta itemprop="ratingValue" content="3.5">
+                <meta itemprop="reviewCount" content="1073">
+            </span>
+                    </div>
+        <div id="reviews_and_rating">
+            <h2>Ratings and Reviews for John's Pizzeria</h2>
+                
+            <div id="reviews">
+                                <span class="review_count">Based on <a onclick='_gaq.push(["_trackPageview","/yelp/overall/3.5"]);' href="http://www.yelp.com/biz/johns-pizzeria-new-york-2" target="_blank">1073 reviews</a></span>
+                <ul>
+                                                                    <li itemscope itemtype="http://schema.org/Review" class="odd">
+                            <meta itemprop="itemReviewed" content="John's Pizzeria">
+                            <span itemscope itemprop="reviewRating" itemtype="http://schema.org/Rating">
+                                <meta itemprop="ratingValue" content="4">
+                            </span>
+                            <span class="avatar"><img class="user_avatar" src="http://s3-media1.fl.yelpcdn.com/photo/3F1wYQnQcEbjZySJhTB-NQ/ms.jpg" alt="Yelp user Yunha P."></span>
+                            <p class="yelp_rating"><img src="http://d16m09fcqghqvs.cloudfront.net/allmenus/images/icons/ratings/y8_s.png" alt="Rating 4 stars"></p>
+                            <p class="date">Jul 28 2015</p>
+                            <p class="source"><span itemprop="author">Yunha P.</span> via Yelp</p>
+                            <p class="snippet"><span>Best pizza in NYC! very tasty and crispy~
+When I think about pizza, this place is the first one comes off from my head.
+Must try!!!</span><a  onclick='_gaq.push(["_trackPageview","/yelp/individual/4"]);' href="http://www.yelp.com/biz/johns-pizzeria-new-york-2" target="_blank">read more</a></p>
+                        </li>
+                                                <li itemscope itemtype="http://schema.org/Review" class="even">
+                            <meta itemprop="itemReviewed" content="John's Pizzeria">
+                            <span itemscope itemprop="reviewRating" itemtype="http://schema.org/Rating">
+                                <meta itemprop="ratingValue" content="4">
+                            </span>
+                            <span class="avatar"><img class="user_avatar" src="http://s3-media2.fl.yelpcdn.com/photo/8-0gz6_KLRGxK4RDO9rw7Q/ms.jpg" alt="Yelp user Scott F."></span>
+                            <p class="yelp_rating"><img src="http://d16m09fcqghqvs.cloudfront.net/allmenus/images/icons/ratings/y8_s.png" alt="Rating 4 stars"></p>
+                            <p class="date">Jul 18 2015</p>
+                            <p class="source"><span itemprop="author">Scott F.</span> via Yelp</p>
+                            <p class="snippet"><span>In New York with our youngest to catch a Yankees game and was advised to try Johns - we were not disappointed. The restaurant itself is just off Times...</span><a  onclick='_gaq.push(["_trackPageview","/yelp/individual/4"]);' href="http://www.yelp.com/biz/johns-pizzeria-new-york-2" target="_blank">read more</a></p>
+                        </li>
+                                                <li itemscope itemtype="http://schema.org/Review" class="odd">
+                            <meta itemprop="itemReviewed" content="John's Pizzeria">
+                            <span itemscope itemprop="reviewRating" itemtype="http://schema.org/Rating">
+                                <meta itemprop="ratingValue" content="4">
+                            </span>
+                            <span class="avatar"><img class="user_avatar" src="http://s3-media3.fl.yelpcdn.com/photo/mN3c1fr16IhiR-ud975l5Q/ms.jpg" alt="Yelp user Aashish J."></span>
+                            <p class="yelp_rating"><img src="http://d16m09fcqghqvs.cloudfront.net/allmenus/images/icons/ratings/y8_s.png" alt="Rating 4 stars"></p>
+                            <p class="date">Jul 14 2015</p>
+                            <p class="source"><span itemprop="author">Aashish J.</span> via Yelp</p>
+                            <p class="snippet"><span>Suggested by a tour guide in Citysightseeing double decker bus. Good pizza, lived up to the expectations. Go get some NY pizza!!!
+
+Pros:
+Location: Right in...</span><a  onclick='_gaq.push(["_trackPageview","/yelp/individual/4"]);' href="http://www.yelp.com/biz/johns-pizzeria-new-york-2" target="_blank">read more</a></p>
+                        </li>
+                                                            </ul>
+                <p class="review_credit">Powered by <img src="http://d16m09fcqghqvs.cloudfront.net/allmenus/images/icons/reviewsFromYelpRED.gif" alt="Yelp"></p>
+                            </div>
+            <div id="descriptions"> 
+                            </div>
+        </div>
+    </div>
+        
+            <div class="bottomboard"><ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6777217859496707"
+     data-ad-slot="0396864239"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+    </div>
+
+
+<div id="secondary">
+    <h2>Map of John's Pizzeria</h2>
+    <div id="map">
+            <a data-clickstream data-cs-fires-on-click="clicked_map"
+        data-cs-with-property-restaurant-allmenus-id="248742"             href="http://maps.google.com/maps?q=260+W+44th+St%2C+New+York+NY+10036&markers=260+W+44th+St%2C+New+York+NY+10036" target="_blank">
+            <img src="http://maps.googleapis.com/maps/api/staticmap?center=40.758106,-73.988588&zoom=11&size=336x220&markers=icon:http://s3.amazonaws.com/cdn.allmenus.com/custom_marker.png%7c40.758106,-73.988588&format=png&sensor=false&maptype=roadmap&style=element:labels%7cvisibility:simplified&style=feature:administrative.neighborhood%7cvisibility:on&style=hue:0x006eff%7csaturation:58&style=feature:road%7celement:labels%7cvisibility:off&style=feature:administrative.locality%7cvisibility:on&style=feature:road%7cvisibility:simplified&style=feature:road%7celement:labels%7cvisibility:off&style=feature:water%7cgamma:0.58&style=feature:transit.line%7cvisibility:off&client=gme-grubhubinc&channel=allmenus&signature=KOP3bmtffGsIntOTMbcQJwAF5l4=" alt="Map of John's Pizzeria">
+            <p>View larger map and get directions</p>
+        </a>
+    </div>
+                    <div class="mantle mantle_atf"> 
+            <!-- AM ATF //-->
+<script type="text/javascript">
+  google_ad_client = "ca-pub-6777217859496707";
+  var window_width = window.innerWidth || document.documentElement.clientWidth;
+  if (window_width >= 1600){
+    google_ad_slot = ["3767326345", "336", "280"]; 
+  }
+ else{
+    google_ad_slot = ["5353876299", "300", "250"];
+ }
+    document.write (
+   '<ins class="adsbygoogle" style="display:inline-block;width:' + google_ad_slot[1] + 
+   'px;height:' + google_ad_slot[2] + 'px" data-ad-client="' + google_ad_client + 
+   '" data-ad-slot="' + google_ad_slot[0] + '"></ins>'
+   );
+   
+  (adsbygoogle = window.adsbygoogle || []).push({});
+ 
+</script>
+
+        </div>
+        
+                <div id="claim_your_listing">
+            <img src="http://d16m09fcqghqvs.cloudfront.net/allmenus/images/icons/owner.png" id="owner_icon" alt="Owner? Update your menu!">
+            <strong>Own John's Pizzeria?</strong>
+            <a href="/menucenter/" rel="nofollow"> Update your menu online!</a>
+        </div>
+        
+                
+            <div class="mantle mantle_btf">
+                <script type="text/javascript">
+
+  google_ad_client = "ca-pub-6777217859496707";
+ 
+  var window_width = window.innerWidth || document.documentElement.clientWidth;
+  if ( window_width >= 1600 )
+    google_ad_slot = ["5244059548", "336", "280"]; 
+  else
+    google_ad_slot = ["1788940384", "300", "250"];
+   
+  document.write (
+   '<ins class="adsbygoogle" style="display:inline-block;width:' + google_ad_slot[1] + 
+   'px;height:' + google_ad_slot[2] + 'px" data-ad-client="' + google_ad_client + 
+   '" data-ad-slot="' + google_ad_slot[0] + '"></ins>'
+   );
+   
+  (adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+            </div>
+            
+
+    
+        <div id="other_dining_options">
+        <h3>Other dining options nearby</h3>
+        <ul>
+                            <li><a href="/ny/new-york/438263-va-presto-by-john-scotto-ii/">Va Prestoby John Scotto II</a></li>
+                            <li><a href="/ny/new-york/7877-the-world-famous-little-italy-gourmet/">Little Italy Pizza</a></li>
+                            <li><a href="/ny/new-york/297080-time-square-pizza/">Time Square Pizza</a></li>
+                    </ul>
+        <strong>
+            Or see
+            all nearby                     <a href="/ny/new-york/-/italian/">                    <span>Italian</span>                    </a>
+                     and                     <a href="/ny/new-york/-/pizza/">Pizza                    </a>
+                     restaurants or             
+            <a href="/ny/new-york/-/online-ordering/">
+            all online ordering</a> restaurants in the area.
+        </strong>
+        <hr>
+    </div>
+    </div>
+
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>    
+        </div><!-- END: id="content" --> 
+        
+        <header>
+            <div id="header">
+                <div id="allmenus_logo"><a href="/"><p class="am_logo"></p></a></div>
+                <div id="navigation">
+                                        <ul itemprop="breadcrumb" id="breadcrumb">
+                        <li>
+                                                                            <a id="crumb_home" href="/">
+                                            <span>Home</span>
+                                        </a>                                    
+                                                                    </li><li>&#9656;</li><li>
+                                                                            <a id="crumb_city" href="/ny/new-york/">
+                                            <span>New York, NY</span>
+                                        </a>                                    
+                                                                    </li><li>&#9656;</li><li>
+                                                                            <a id="crumb_cuisine" href="/ny/new-york/-/italian/">
+                                            <span>Italian</span>
+                                        </a>                                    
+                                                                    </li><li>&#9656;</li><li>
+                                                                            <span>John's Pizzeria</span>
+                                                                    </li>                    </ul>
+                                    </div>
+            </div>
+        </header>
+
+        <footer>
+            <div id="footer">
+                <ul>
+                    <li><a href="/contact-us/?mlid=248742" rel="nofollow">Contact Us</a></li>
+                    <li><a href="http://about.grubhub.com/about-us/our-brands/">About</a></li>
+                    <li><a href="http://get.grubhub.com/sales/">Advertise with Us</a></li>
+                    <li><a href="/menucenter/" rel="nofollow">Restaurant Owners</a></li>
+                    <li><a href="/c/">Chains</a></li>
+                </ul>
+                <p id="mobile-link">View the <a href="http://www.allmenus.com/ny/new-york/248742-johns/menu/?site=mobile" rel="nofollow">mobile version</a> or the <a href="http://www.allmenus.com/ny/new-york/248742-johns/menu/?site=tablet" rel="nofollow">tablet version</a></p>
+                <p>
+                    Registration on or use of this site constitutes acceptance of the  
+                    <a href="/terms-conditions/">Terms &amp; Conditions</a>
+                    and                    <a href="/your-privacy-rights/">Privacy Policy</a>. 
+                                        <span id="copyright">&copy;2015 GrubHub, Inc. All rights reserved.</span>
+                </p>
+            </div>
+        </footer>
+        
+        
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript" src="http://d16m09fcqghqvs.cloudfront.net/allmenus/js/jquery.json-2.2.js"></script>
+        <script type="text/javascript" src="/cdn/allmenus/js/gdax5.js"></script>
+        <script type="text/javascript" src="http://d16m09fcqghqvs.cloudfront.net/allmenus/js/allmenus.js"></script>
+        <script type="text/javascript" src="http://d16m09fcqghqvs.cloudfront.net/allmenus/js/jquery-ui-1.8.19.custom.min.js"></script>
+                                <script type="text/javascript">$("#cuisines").click(function() {$("#cuisines").hide()});
+$("#cuisines").click();
+
+var b_reviews_showing = false;
+var toggle_reviews = function() {
+    if (!b_reviews_showing) {
+        $("#teaser_label").attr("class", "sprite sprite-minus");
+        $("#review_teaser").after($("#reviews_and_rating").clone());
+    } else {
+        $("#teaser_label").attr("class", "sprite sprite-plus");
+        $("#reviews_and_rating").remove();
+    }
+    b_reviews_showing = !b_reviews_showing; 
+    
+    _gaq.push(["_trackEvent", "restaurant", "link", "toggle-reviews", 0, true]);
+}
+
+$("#menu").before($("#alternative_menus").clone());
+
+if ($("#menu").length > 0) {
+    if ($("#reviews").length > 0) {
+        $("#primary_info").after($("#review_teaser").clone());
+        $("#teaser_label").attr("class", "sprite sprite-plus");
+        $("#teaser_label").css("padding-left" ,"20px");
+    }
+
+    if ($("#online_ordering").length > 0) {
+        $("#primary_info").after($("#online_ordering").clone());
+    } //else if ($("#reservations").length > 0) {
+        //$("#primary_info").after($("#reservations"));
+    //}
+}
+
+$("#restaurant>#review_teaser").click(toggle_reviews);
+
+$("#datetime").css("display", "none");
+$("#datepicker_opentable").css("display", "inline");
+$("#time").css("display", "inline");
+$("#calendar").click(function() {
+    $("#datepicker").datepicker( "destroy" );
+    $("#datepicker_opentable").datepicker();
+    $("#datepicker_opentable").focus();
+});
+//$("#datepicker_opentable").datepicker();
+$("#datepicker_opentable").change(function(){
+    $("#datetime").val($("#datepicker_opentable").val() + " " + $("#time").val());
+});
+$("#time").change(function(){
+    $("#datetime").val($("#datepicker_opentable").val() + " " + $("#time").val());
+});
+
+$(".OT_day").click(function(){
+    if(!$("#datepicker").hasClass("hasDatepicker")){
+        $("#datepicker_opentable").datepicker( "destroy" );
+        $("#datepicker").datepicker(); 
+        $("#datepicker").focus();
+    }
+});
+
+
+// Other dining options module
+$("#primary_info").after($("#other_dining_options"));
+$("#other_dining_options h3").html("<strong>Hungry right now? Order in!</strong> Try these nearby Online Ordering restaurants:");
+$("#disclaimer").after($("#other_dining_options").clone());
+
+
+// Google Analytics events
+$("#alternative_menus a").click(function() {_gaq.push(["_trackEvent", "restaurant", "link", $(this).text().trim(), 0, true]);});
+$("#map>a").click(function() {_gaq.push(["_trackEvent", "restaurant", "link", "map", 0, true]);});
+$("#claim_your_listing>a").click(function() {_gaq.push(["_trackEvent", "restaurant", "link", "claim_listing", 0, true]);});
+$("#reviews a").click(function() {_gaq.push(["_trackEvent", "restaurant", "link", "review_read_more", 0, true]);});
+$("#print-link").click(function() {_gaq.push(["_trackEvent", "restaurant", "image", "print", 0, true]);});
+
+//sp multiple menus
+// Single platform alternative menus
+$(".sp_alternative_menu").click(function(){
+    $('.current_group').removeClass('current_group');
+    var classList =$(this).attr('class').split(/\s+/);
+    for(var i=0; i<classList.length; i++){
+        if(classList[i].indexOf("sp_menu_choice") !== -1){
+            var menu = classList[i].replace("sp_menu_choice_", "");
+            $('.'+classList[i]).addClass('current_group');
+        }
+    }
+    $('.sp_menu_shown').removeClass('sp_menu_shown').addClass('sp_menu_hidden');
+    $('#sp_menu_'+menu).removeClass('sp_menu_hidden').addClass('sp_menu_shown');
+});
+
+
+
+//accomodate 336x280 ads
+var window_width = window.innerWidth || document.documentElement.clientWidth;
+if((document.querySelectorAll('.house_leaderboard').length==0) && (window_width >= 1600)){
+    $('#content').css('width', '1016px');
+    $('#secondary').css('width', '339px');
+    $('#map').css('width', '336px');
+    $('.mantle').css('width', '339px').css('height', '282px');
+}
+
+
+//append delivery or pickup to the goto link on the gh button
+$(".gh_button").click(function(e){
+    var order_type = $(this).next().find("input:radio[name=order_type]:checked").val().toLowerCase();
+    var $form = $(this).closest("form");
+    var goto_url = $form.attr("action");
+    goto_url += "&order_type="+order_type;
+    $form.attr('action', goto_url);
+});
+
+//added for clickstream:
+!function(a,b,c,d){"use strict";function e(b){var d=b||{},e=!1,f={platform:d.platform||i.platform||"",browserId:d.browserId||a.localVar("clickstreamBrowserId")||a.localVar("clickstreamBrowserId",c.create()),userId:d.userId||a.localVar("ghAccountId")||"",referrer:d.referrer||document.referrer||"",userAgent:d.userAgent||window.navigator.userAgent,protocol:d.protocol||window.location.protocol,hostname:d.hostname||window.location.hostname,pathname:d.pathname||window.location.pathname,queryParams:d.search||window.location.search,data:d.data||{}},g=d.sessionId||a.localVar("clickstreamSessionId"),j=d.sessionDateTimeStamp||new Date(a.localVar("clickstreamSessionDateTimeStamp")),k=new Date;return k.setTime(k.getTime()-18e5),d.name&&(f.name=d.name),(!g||!j||g&&k>j)&&(g=a.localVar("clickstreamSessionId",c.create()),e=!0),f.sessionId=g,a.localVar("clickstreamSessionDateTimeStamp",(new Date).valueOf()),e&&h({name:"sessionStarted"}),f}function f(a){var c=d.extend(!0,{},a),e=new Date;if(c.sequence=++k,c.dateTime=e,c.timezone=e.getTimezoneOffset(),j.push(c),!i.disableAll){for(var f in c.data)d.isFunction(c.data[f])&&(c.data[f]=c.data[f]());b(i.host+"/addEvent?event="+escape(JSON.stringify(c)))}}function g(a){return f(e(a))}function h(a){return i[i.length]=a,g(a)}for(var i=window._csq=window._csq||[],j=window._csqLog=window._csqLog||[],k=-1,l=0;l<i.length;l++)g(i[l]);i.push=h,i.host=i.host||"https://clickstream.grubhub.com"}(function(){"use strict";function a(a){var b=new RegExp("[; ]"+a+"=([^;]*)"),c=(" "+document.cookie).match(b);return a&&c?c[1]:null}function b(a){for(var b in a)a.hasOwnProperty(b)&&(document.cookie=""+b+"="+a[b])}function c(c){var d=c.name,e=c.value,f=c.session;if(d){if(e){if(f===!0)if(window.sessionStorage)try{window.sessionStor

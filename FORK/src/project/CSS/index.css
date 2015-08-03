@@ -1,0 +1,27 @@
+
+html,body{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-color:#323232;
+	color:white;
+	width: 800px;
+	margin:0 auto;
+	padding-top: 100px;
+	padding-right:120px;
+}
+heading{
+	border: 2px solid white;
+}
+h1{
+	text-align: center;
+	text-decoration:underline;
+	font-size: 70px;
+	font-family: serif;
+	color:#dedede;
+	margin: 50px 0 -10px 0;	
+}
+h2{
+	text-align: center;
+}

@@ -1,0 +1,429 @@
+ John's Pizzeria
+
+ 260 W 44th St
+, 
+City New York
+
+State NY
+
+Zip 10036
+
+Menu Category Appetizers
+
+  
+
+Item Garlic Bread
+
+Price: $2.50
+Price: topped with melted mozzarella cheese
+
+Description $2.50
+Description topped with melted mozzarella cheese
+
+Item Garlic Loaf Bread
+
+Price: $7.00 - $4.00
+Price: half loaf
+
+Description $7.00 - $4.00
+Description half loaf
+
+Item John's Garlic Rolls
+
+Price: $8.00 - $6.50
+Price: fresh garlic, olive oil and mozzarella cheese wrapped in our homemade dough and served with marinara sauce for dipping
+
+Description $8.00 - $6.50
+Description fresh garlic, olive oil and mozzarella cheese wrapped in our homemade dough and served with marinara sauce for dipping
+
+Item Bruschetta
+
+Price: $7.75
+Price: toasted italian bread topped with diced tomatoes, garlic, olive oil and basil
+
+Description $7.75
+Description toasted italian bread topped with diced tomatoes, garlic, olive oil and basil
+
+Item Sicilian Wings
+
+Price: $13.00 - $7.25
+Price: our chicken wings are tossed with crushed red pepper, fresh garlic and rosemary. served with real bleu cheese dressing
+
+Description $13.00 - $7.25
+Description our chicken wings are tossed with crushed red pepper, fresh garlic and rosemary. served with real bleu cheese dressing
+
+Item Fried Calamari
+
+Price: $12.00
+Price: fried calamari served with marinara sauce
+
+Description $12.00
+Description fried calamari served with marinara sauce
+
+Item Mozzarella Wedges
+
+Price: $8.75
+Price: john's homemade breaded mozzarella wedges fried golden brown and served with marinara sauce
+
+Description $8.75
+Description john's homemade breaded mozzarella wedges fried golden brown and served with marinara sauce
+
+Item Roasted Veggie Platter
+
+Price: $9.00
+Price: array of roasted fresh seasonal vegetables
+
+Description $9.00
+Description array of roasted fresh seasonal vegetables
+
+Item Soup Of The Day
+
+Price: $5.00
+Price: seasonal
+
+Description $5.00
+Description seasonal
+
+Item Pizza Rolls
+
+Price: $12.00 - $10.50
+Price: our homemade dough stuffed with your choice of: fresh sausage spiced with fennel, mushrooms, onions, peppers with mozzarella cheese, sauteed spinach with mozzarella cheese
+
+Description $12.00 - $10.50
+Description our homemade dough stuffed with your choice of: fresh sausage spiced with fennel, mushrooms, onions, peppers with mozzarella cheese, sauteed spinach with mozzarella cheese
+
+Menu Category Salads
+
+ Add Grilled Or Breaded Chicken Cutlet To Any Salad $4.75, Ranch And Bleu Cheese Dressings $1 Extra. Our Salads Can Be Shared By Two Or Three People. 
+
+Item Our House Salad
+
+Price: $9.50
+Price: fresh crisp romaine lettuce topped with mushrooms, tomatoes, red onions and john's homemade vinaigrette dressing
+
+Description $9.50
+Description fresh crisp romaine lettuce topped with mushrooms, tomatoes, red onions and john's homemade vinaigrette dressing
+
+Item Spinach Salad
+
+Price: $12.25
+Price: baby spinach topped with sliced black olives, crumbled bleu cheese, apples, walnuts, red onions and john's homemade dressing
+
+Description $12.25
+Description baby spinach topped with sliced black olives, crumbled bleu cheese, apples, walnuts, red onions and john's homemade dressing
+
+Item Arugula Salad
+
+Price: $11.75
+Price: arugula, mandarin oranges, and shaved parmesan cheese tossed in a light citrus dressing
+
+Description $11.75
+Description arugula, mandarin oranges, and shaved parmesan cheese tossed in a light citrus dressing
+
+Item Caesar Salad
+
+Price: $10.00
+Price: fresh crisp romaine lettuce, shaved parmesan cheese, and croutons tossed in our own caesar dressing
+
+Description $10.00
+Description fresh crisp romaine lettuce, shaved parmesan cheese, and croutons tossed in our own caesar dressing
+
+Item Antipasto
+
+Price: $11.95
+Price: prosciutto, hot soppressata, fresh mozzarella cheese, roasted red peppers, hot cherry peppers, grilled zucchini and sun dried tomatoes served on a bed of mixed greens
+
+Description $11.95
+Description prosciutto, hot soppressata, fresh mozzarella cheese, roasted red peppers, hot cherry peppers, grilled zucchini and sun dried tomatoes served on a bed of mixed greens
+
+Menu Category Pizza
+
+ Sm (6 Slices) / Med (8 Slices). New York's Most Famous Coal - Fired Brick Oven Thin Crust Pizza! Since 1997 Try Our Whole Wheat Dough $1.50 Extra 
+
+Item Traditional
+
+Price: $16.50 - $14.25
+Price: mozzarella cheese and tomato sauce
+
+Description $16.50 - $14.25
+Description mozzarella cheese and tomato sauce
+
+Item Margherita
+
+Price: $19.75 - $17.50
+Price: fresh mozzarella cheese, fresh basil and tomato sauce
+
+Description $19.75 - $17.50
+Description fresh mozzarella cheese, fresh basil and tomato sauce
+
+Item Pizza Bianca
+
+Price: $19.25 - $17.00
+Price: ricotta and mozzarella cheese (no tomato sauce)
+
+Description $19.25 - $17.00
+Description ricotta and mozzarella cheese (no tomato sauce)
+
+Item Marinara
+
+Price: $13.00 - $15.25
+Price: tomato sauce and fresh garlic (no cheese)
+
+Description $13.00 - $15.25
+Description tomato sauce and fresh garlic (no cheese)
+
+Item Hawaiian Pizza
+
+Price: $19.75 - $22.00
+Price: mozzarella cheese, ham, pineapple, and tomato sauce
+
+Description $19.75 - $22.00
+Description mozzarella cheese, ham, pineapple, and tomato sauce
+
+Item Bruschetta
+
+Price: $17.25 - $19.50
+Price: mozzarella cheese and diced roma tomatoes marinated in olive oil, fresh garlic and basil (no tomato sauce)
+
+Description $17.25 - $19.50
+Description mozzarella cheese and diced roma tomatoes marinated in olive oil, fresh garlic and basil (no tomato sauce)
+
+Menu Category Pizza
+
+  
+
+Item Our Calzone
+
+Price: $18.00
+Price: can be shared by two or three people. a large half-moon shaped pocket of dough stuffed with mozzarella and ricotta cheese baked in our coal-fired brick oven. pizza toppings may be added to the filling
+
+Description $18.00
+Description can be shared by two or three people. a large half-moon shaped pocket of dough stuffed with mozzarella and ricotta cheese baked in our coal-fired brick oven. pizza toppings may be added to the filling
+
+Menu Category Pizza Toppings
+
+  Additional Toppings On Whole, Half, Or Quarter Pies Are The Same Price.
+
+Item Breaded Chicken Cutlet
+
+Price: $4.75
+Price: 
+
+Description $4.75
+Description 
+
+Item Grilled Chicken
+
+Price: $4.75
+Price: 
+
+Description $4.75
+Description 
+
+Item Prosciutto
+
+Price: $4.25
+Price: 
+
+Description $4.25
+Description 
+
+Item Meatball
+
+Price: $3.75
+Price: 
+
+Description $3.75
+Description 
+
+Item Italian Pork Sausage
+
+Price: $2.75
+Price: 
+
+Description $2.75
+Description 
+
+Item Pepperoni
+
+Price: $2.50
+Price: 
+
+Description $2.50
+Description 
+
+Item Ham
+
+Price: $3.00
+Price: 
+
+Description $3.00
+Description 
+
+Item Anchovies
+
+Price: $2.25
+Price: 
+
+Description $2.25
+Description 
+
+Item Ricotta Cheese
+
+Price: $2.75
+Price: 
+
+Description $2.75
+Description 
+
+Item Fresh Mozzarella
+
+Price: $3.50
+Price: 
+
+Description $3.50
+Description 
+
+Item Extra Cheese
+
+Price: $2.50
+Price: 
+
+Description $2.50
+Description 
+
+Item Breaded Eggplant
+
+Price: $3.75
+Price: 
+
+Description $3.75
+Description 
+
+Item Basil
+
+Price: $2.25
+Price: 
+
+Description $2.25
+Description 
+
+Item Fresh Garlic
+
+Price: $2.00
+Price: 
+
+Description $2.00
+Description 
+
+Item Roasted Red Peppers
+
+Price: $3.00
+Price: 
+
+Description $3.00
+Description 
+
+Item Bell Peppers
+
+Price: $2.25
+Price: 
+
+Description $2.25
+Description 
+
+Item Sun Dried Tomatoes
+
+Price: $2.50
+Price: 
+
+Description $2.50
+Description 
+
+Item Tomato Slices
+
+Price: $2.25
+Price: 
+
+Description $2.25
+Description 
+
+Item Black Olives
+
+Price: $2.00
+Price: 
+
+Description $2.00
+Description 
+
+Item Spinach
+
+Price: $2.50
+Price: 
+
+Description $2.50
+Description 
+
+Item Broccoli
+
+Price: $2.75
+Price: 
+
+Description $2.75
+Description 
+
+Item Pineapple
+
+Price: $2.50
+Price: 
+
+Description $2.50
+Description 
+
+Item Mushrooms
+
+Price: $2.25
+Price: 
+
+Description $2.25
+Description 
+
+Item Onions
+
+Price: $2.00
+Price: 
+
+Description $2.00
+Description 
+
+Item Hot Cherry Peppers
+
+Price: $2.25
+Price: 
+
+Description $2.25
+Description 
+
+Menu Category Pasta
+
+ Add Grilled Chicken $4.75 
+
+Item Cheese Ravioli
+
+Description pasta pockets stuffed with ricotta cheese
+
+Item Cheese Ravioli
+
+Price: $12.75
+Price: marinara
+
+Description $12.75
+Description marinara
+
+Item Cheese Ravioli
+
+Price: $13.75
+Price: bolognese
+
+Description $13.75
+Des

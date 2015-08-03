@@ -1,0 +1,34 @@
+@CHARSET "UTF-8";
+body{
+	background-color: #408000;
+	
+}
+h1{
+	text-align: center;
+	font-family: serif;
+	font-size: 70px;
+	color: #dedede;
+	text-decoration: underline;
+	padding-top:50px;
+}
+#main-content{
+	color:white;
+	margin:0px auto 30px;
+}
+#main-content p{
+
+	width:500px;
+	font-size: 14px;
+	text-align:justify;
+}
+h3, #footer {
+	color:white;
+	text-align: center;
+}
+h3{
+	font-size: 18px;
+}
+#footer{
+	font-size: 14px;
+	outline-width: thin;
+}
